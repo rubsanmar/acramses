@@ -1,59 +1,62 @@
-name: Generación acramses
+import requests
+import sys
 
-on:
-  # Define la ejecución diaria usando un cron-schedule
-  schedule:
-    # Se ejecuta todos los días a las 00:00 UTC
-    - cron: '0 0 * * *' 
-  # Permite la ejecución manual del workflow desde la interfaz de GitHub
-  workflow_dispatch:
+# URL del archivo .txt en línea
+# ¡IMPORTANTE! Cambia esto por tu URL real si es diferente.
+url_txt = 'https://elcano-kappa.vercel.app/PelisAcestream.txt' 
 
-# 💡 CORRECCIÓN CRÍTICA: Se añaden permisos de escritura (write) al token
-permissions:
-  contents: write
+# Nombre del archivo de salida
+archivo_salida = 'acramses.m3u'
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+# Prefijos para reemplazo
+antiguo_prefijo = 'acestream://'
+nuevo_prefijo = 'http://127.0.0.1:6878/ace/getstream?id='
+
+print(f"Iniciando la descarga desde: {url_txt}")
+print(f"El archivo de salida será: {archivo_salida}")
+
+try:
+    # 1. Descargar contenido del archivo
+    response = requests.get(url_txt, timeout=15) # Añadido timeout por seguridad
+    response.raise_for_status()  # Lanza error si hay un problema HTTP
+
+    # 2. Procesar líneas y hacer reemplazos
+    lineas_convertidas = ['#EXTM3U'] # <-- AÑADIDO: Encabezado estándar M3U
     
-    steps:
-    # 1. Checkout del código
-    - name: Checkout del repositorio
-      uses: actions/checkout@v4
+    # Obtener el contenido del archivo de texto
+    content_lines = response.text.splitlines()
+    
+    print(f"Líneas totales leídas: {len(content_lines)}")
 
-    # 2. Configurar Python
-    - name: Configurar Python 3.x
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.x' 
-
-    # 3. Instalar dependencias (si tienes un requirements.txt)
-    - name: Instalar dependencias
-      run: |
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-
-    # 4. Ejecutar el script de Python
-    - name: Ejecutar script de generación M3U
-      run: python acramses.py
-
-    # 5. Configurar Git para el commit
-    - name: Configurar Git
-      run: |
-        git config user.name "GitHub Actions Bot"
-        git config user.email "actions@github.com"
-
-    # 6. Comprobar si hay cambios y hacer commit
-    - name: Commit y Push de los cambios si existen
-      run: |
-        # Añade todos los cambios (especialmente el archivo .m3u actualizado)
-        git add .
+    for linea in content_lines:
+        linea_limpia = linea.strip() # Limpia espacios en blanco
         
-        # Comprueba si hay archivos modificados para evitar un commit vacío
-        if git diff --cached --exit-code; then
-          echo "No se encontraron cambios en el archivo M3U."
-        else
-          git commit -m "🤖 Actualización diaria de M3U"
-          # Sube los cambios a la rama principal (reemplaza 'main' si usas 'master')
-          # Usaremos la rama 'master' según el error que mostraste.
-          git push origin master 
-        fi
+        # Solo procesar líneas que no estén vacías y que no sean comentarios (opcional)
+        if not linea_limpia or linea_limpia.startswith('#'):
+            lineas_convertidas.append(linea)
+            continue
+            
+        if antiguo_prefijo in linea_limpia:
+            # Realizar el reemplazo solo en la línea que contiene el prefijo
+            linea_reemplazada = linea_limpia.replace(antiguo_prefijo, nuevo_prefijo)
+            lineas_convertidas.append(linea_reemplazada)
+        else:
+            # Si no contiene el prefijo, se mantiene la línea original (ej. títulos EXTINF)
+            lineas_convertidas.append(linea_limpia)
+
+    # 3. Escribir en archivo .m3u
+    with open(archivo_salida, 'w', encoding='utf-8') as f:
+        # Aseguramos que todas las líneas se escriban
+        f.write('\n'.join(lineas_convertidas) + '\n') 
+
+    print(f'✅ Proceso completado. Archivo guardado como: {archivo_salida}')
+
+except requests.exceptions.Timeout:
+    print(f'❌ Error de tiempo de espera (Timeout) al conectar con {url_txt}', file=sys.stderr)
+    sys.exit(1)
+except requests.RequestException as e:
+    print(f'❌ Error al descargar el archivo o error HTTP: {e}', file=sys.stderr)
+    sys.exit(1)
+except Exception as e:
+    print(f'❌ Error general en la ejecución: {e}', file=sys.stderr)
+    sys.exit(1)

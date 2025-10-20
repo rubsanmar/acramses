@@ -1,13 +1,16 @@
-name: Generación Diaria de M3U
+name: Generación acramses
 
 on:
   # Define la ejecución diaria usando un cron-schedule
   schedule:
     # Se ejecuta todos los días a las 00:00 UTC
-    # Puedes ajustar la hora si es necesario
-    - cron: '0 6 * * *' 
+    - cron: '0 0 * * *' 
   # Permite la ejecución manual del workflow desde la interfaz de GitHub
   workflow_dispatch:
+
+# 💡 CORRECCIÓN CRÍTICA: Se añaden permisos de escritura (write) al token
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -51,5 +54,6 @@ jobs:
         else
           git commit -m "🤖 Actualización diaria de M3U"
           # Sube los cambios a la rama principal (reemplaza 'main' si usas 'master')
-          git push origin main 
+          # Usaremos la rama 'master' según el error que mostraste.
+          git push origin master 
         fi
