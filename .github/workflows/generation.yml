@@ -31,7 +31,7 @@ jobs:
 
     # 4. Ejecutar el script de Python
     - name: Ejecutar script de generación M3U
-      run: python tu_script.py
+      run: python acramses.py
 
     # 5. Configurar Git para el commit
     - name: Configurar Git
