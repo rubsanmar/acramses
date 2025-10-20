@@ -54,6 +54,5 @@ jobs:
         else
           git commit -m "🤖 Actualización diaria de M3U"
           # Sube los cambios a la rama principal (reemplaza 'main' si usas 'master')
-          # Usaremos la rama 'master' según el error que mostraste.
-          git push origin master 
+          git push origin main 
         fi
