@@ -4,7 +4,7 @@ on:
   # Define la ejecución diaria usando un cron-schedule
   schedule:
     # Se ejecuta todos los días a las 00:00 UTC
-    - cron: '0 0 * * *' 
+    - cron: '0 6 * * *' 
   # Permite la ejecución manual del workflow desde la interfaz de GitHub
   workflow_dispatch:
 
@@ -52,7 +52,7 @@ jobs:
         if git diff --cached --exit-code; then
           echo "No se encontraron cambios en el archivo M3U."
         else
-          git commit -m "🤖 Actualización diaria de M3U"
+          git commit -m "Actualización diaria"
           # Sube los cambios a la rama principal (reemplaza 'main' si usas 'master')
           git push origin main 
         fi
