@@ -4,7 +4,7 @@ on:
   # Define la ejecución diaria usando un cron-schedule
   schedule:
     # Se ejecuta todos los días a las 00:00 UTC
-    - cron: '0 6 * * *' 
+    - cron: '0 */12 * * *' 
   # Permite la ejecución manual del workflow desde la interfaz de GitHub
   workflow_dispatch:
 
