@@ -6,7 +6,7 @@ import sys
 url_txt = 'https://elcano-kappa.vercel.app/PelisAcestream.txt' 
 
 # Nombre del archivo de salida
-archivo_salida = 'acramses.m3u'
+archivo_salida = 'acramses'
 
 # Prefijos para reemplazo
 antiguo_prefijo = 'acestream://'
