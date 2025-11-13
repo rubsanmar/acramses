@@ -1,6 +1,102 @@
 #EXTM3U
 #EXTM3U
 # Carpeta: AÑO 2025
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/c4QA1rFQcyBZKaOOdUrDeL1G9Er.jpg",End of Loyalty (2025) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=99e7e5eeed8872e453a703d0ea8369f59be5a382
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/c4QA1rFQcyBZKaOOdUrDeL1G9Er.jpg",End of Loyalty (2025) BluRay 720pRip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=7a113688038c3c05926fe47e53dc9f94757237e3
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",Inheritance (2025) BluRay Rip (5.8)
+http://127.0.0.1:6878/ace/getstream?id=ea41f54d403964bfd577400133f6e62d543a74fb
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",Inheritance (2025) BluRay 720pRip (5.8)
+http://127.0.0.1:6878/ace/getstream?id=3feaf383e06ed16c948dabe64d10564b25b9d4b2
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/aZGpn6GTtLFkkJ0LmeHtifL1Jw8.jpg",Inheritance (2025) BluRay 4k 2160P (5.8)
+http://127.0.0.1:6878/ace/getstream?id=0b45afb6f3aec32c0cfe1569424976d5440f6ca0
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",Spinal Tap II El final continua  (2025) BluRay Rip (6.6)
+http://127.0.0.1:6878/ace/getstream?id=b258297e93a453a27d21e536c386aaf0940917a1
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",Spinal Tap II El final continua  (2025) BluRay 720pRip (6.6)
+http://127.0.0.1:6878/ace/getstream?id=838cd441b2295ca5b53f14b5228288ecdd62c2c0
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",Spinal Tap II El final continua  (2025) BluRay 1080Rip (6.6)
+http://127.0.0.1:6878/ace/getstream?id=cde8cc5482c840e886881c77706279ba9bf340fb
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/eSpCTFaSqQ9D52bw85zAMseM7hW.jpg",Koln 75 (2025) BluRay Rip (7.9)
+http://127.0.0.1:6878/ace/getstream?id=c665e3d8316d24a36b6c736b82dd9521c43e7e1e
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/eSpCTFaSqQ9D52bw85zAMseM7hW.jpg",Koln 75 (2025) BluRay 720pRip (7.9)
+http://127.0.0.1:6878/ace/getstream?id=6a31afdf571b2bd6fb52a8b9efa48f63b9e6b3a7
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/eSpCTFaSqQ9D52bw85zAMseM7hW.jpg",Koln 75 (2025) BluRay 1080Rip (7.9)
+http://127.0.0.1:6878/ace/getstream?id=fb9fef6b836c5671a4ce2439d53d13b9774fe23c
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/1OsdhvbLNLUJEi9vqQCyhAXsaRX.jpg",Mas alla de Wall  (2025) BluRay Rip (7.0)
+http://127.0.0.1:6878/ace/getstream?id=fe8604cfd47e9307e8deae5b699e682424ef5dc7
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/1OsdhvbLNLUJEi9vqQCyhAXsaRX.jpg",Mas alla de Wall  (2025) BluRay 720pRip (7.0)
+http://127.0.0.1:6878/ace/getstream?id=830e00add6844998c875009a9e7c817fb1f9bd44
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/1OsdhvbLNLUJEi9vqQCyhAXsaRX.jpg",Mas alla de Wall  (2025) BluRay 1080Rip (7.0)
+http://127.0.0.1:6878/ace/getstream?id=a8a5062dcc07097c82dad52d0a4633a3778dc049
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/1OsdhvbLNLUJEi9vqQCyhAXsaRX.jpg",Mas alla de Wall  (2025) BluRay 4k 2160P (7.0)
+http://127.0.0.1:6878/ace/getstream?id=b5627bd78308a40b8dbec44546dc56dd08dfa9c3
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/lvNpUwVOlj9hoY0JiH5b5OHh9SJ.jpg",Mi Querida Ladrona (2025) BluRay Rip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=0072b3f5c75cc074ab34a51a48ecba8f8986fdcc
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/lvNpUwVOlj9hoY0JiH5b5OHh9SJ.jpg",Mi Querida Ladrona (2025) BluRay 720pRip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=c83f778b47a86a1cd1c7bfec2b0e3270207a7da0
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/lvNpUwVOlj9hoY0JiH5b5OHh9SJ.jpg",Mi Querida Ladrona (2025) BluRay 1080Rip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=c1a62d781d278636672187bbdc7432cefeba2572
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/foyiQu23zq4WhmffnQkFiNAvqcJ.jpg",Seis Dias Caza Al Asesino  (2025) BluRay Rip (6.1)
+http://127.0.0.1:6878/ace/getstream?id=1596c2fb7a87d2e9db566263d5072b01014e5470
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/5Gr4amaB1xxeYAEMOdrVutaWwgz.jpg",Las Ratas Una historia de The Witcher (2025) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=f0387f4ba726d4c5d23f735f994277a0cbfe41cf
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/haqfplSRnIwO8ha5tKOxwnG1sxP.jpg",La acusacion (2025) BluRay Rip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=78b362791f76ded938328bf5f313f2042a875483
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/haqfplSRnIwO8ha5tKOxwnG1sxP.jpg",La acusacion (2025) BluRay 720pRip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=8225bdde82ddd06eefca54ac386c7a777469d495
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ri9cazZeb7QKlmJpLZ7PpJelHb.jpg",Herencia maldita (2025) BluRay Rip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=b824467349a4ffc743e792437b8634e5b4ede625
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ri9cazZeb7QKlmJpLZ7PpJelHb.jpg",Herencia maldita (2025) BluRay 720pRip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=d6a1ca6b5f4bbd750f2e57b64acd4e8b3ede09b7
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ri9cazZeb7QKlmJpLZ7PpJelHb.jpg",Herencia maldita (2025) BluRay 1080Rip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=680dab11a72ad4f5f7b6c78c7dae3adf300f67f9
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/etJwfiUR0gtQwH8shhwjRr5bARQ.jpg",El hombre mas afortunado de America (2025) BluRay 720pRip (6.6)
+http://127.0.0.1:6878/ace/getstream?id=a1a8d77a9378996befcc199ad6c09976e02a14c3
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/etJwfiUR0gtQwH8shhwjRr5bARQ.jpg",El hombre mas afortunado de America (2025) BluRay 1080Rip (6.6)
+http://127.0.0.1:6878/ace/getstream?id=a12e39a48b5ff8b74ff5cb8a5c80397fca83524c
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/pnXLFioDeftqjlCVlRmXvIdMsdP.jpg",Armor (2025) BluRay Rip (5.5)
+http://127.0.0.1:6878/ace/getstream?id=2c1eb5366956b7145918b28ed8d893dbf8a427d6
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/pnXLFioDeftqjlCVlRmXvIdMsdP.jpg",Armor (2025) BluRay 720pRip (5.5)
+http://127.0.0.1:6878/ace/getstream?id=00eb4584108b74862378e17ef9bca92822011252
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/pnXLFioDeftqjlCVlRmXvIdMsdP.jpg",Armor (2025) BluRay 1080Rip (5.5)
+http://127.0.0.1:6878/ace/getstream?id=906d2534a69974f402c0558bde3bef65df1b3be5
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/78xGAhQaKpgq9TI08XK40Ua2bGx.jpg",Screamboat El barco del terror (2025) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=2813b47faec3d121b28cc7e4ef30722317269a0d
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/78xGAhQaKpgq9TI08XK40Ua2bGx.jpg",Screamboat El barco del terror (2025) BluRay 720pRip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=21519ab6b5e10beda1989d934e89317b4c1240e6
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/78xGAhQaKpgq9TI08XK40Ua2bGx.jpg",Screamboat El barco del terror (2025) BluRay 1080Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=c15181938556a8c0ca9354e5f12735b03f785007
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/78xGAhQaKpgq9TI08XK40Ua2bGx.jpg",Screamboat El barco del terror (2025) BluRay 4k 2160P (5.0)
+http://127.0.0.1:6878/ace/getstream?id=5e04cbc7319efd1cd1da5450bf267c47ddba1137
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ecflk7AZf0ij205yDswjlvdxlCO.jpg",Hedda (2025) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=de0a51c9cccbf7e72875c164c5246aabead74516
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ecflk7AZf0ij205yDswjlvdxlCO.jpg",Hedda (2025) BluRay 720pRip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=a9c484c56121c577b4933df36b09292eda89ffd5
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ecflk7AZf0ij205yDswjlvdxlCO.jpg",Hedda (2025) BluRay 1080Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=9cf72ad31c4f2d4f0e28135d098b9a93ca09fe3f
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ecflk7AZf0ij205yDswjlvdxlCO.jpg",Hedda (2025) BluRay 4k 2160P (5.0)
+http://127.0.0.1:6878/ace/getstream?id=02a245633e06ff054837f05d002db3536e5283c9
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/9XTM42IJST6lwPxtK2iUwNaFvCT.jpg",Eleanor the Great (2025) BluRay Rip (8.2)
+http://127.0.0.1:6878/ace/getstream?id=7421f1670b3105c4f54e6dc64e0472f26d71cc7c
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/9XTM42IJST6lwPxtK2iUwNaFvCT.jpg",Eleanor the Great (2025) BluRay 720pRip (8.2)
+http://127.0.0.1:6878/ace/getstream?id=8af9ff50da681246c322125adbba062c984b1af0
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/9XTM42IJST6lwPxtK2iUwNaFvCT.jpg",Eleanor the Great (2025) BluRay 1080Rip (8.2)
+http://127.0.0.1:6878/ace/getstream?id=961e938ed5db4450c07116c6f3c89ccbff81e95c
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/9XTM42IJST6lwPxtK2iUwNaFvCT.jpg",Eleanor the Great (2025) BluRay 4k 2160P (8.2)
+http://127.0.0.1:6878/ace/getstream?id=d83bb0d8cc47227b7b16d16addcb33b495b013fd
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/940EMczEOLhoFSPXAFxUf5CVIQn.jpg",Maldita suerte (2025) BluRay Rip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=7f2496c81dbb393936c8919aebc79d7b3634a3f5
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/940EMczEOLhoFSPXAFxUf5CVIQn.jpg",Maldita suerte (2025) BluRay 720pRip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=4e47134d9ae38f6f0e57cf7ba67937c48286f082
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/940EMczEOLhoFSPXAFxUf5CVIQn.jpg",Maldita suerte (2025) BluRay 4k 2160P (6.5)
+http://127.0.0.1:6878/ace/getstream?id=925c7217c3a42cff99a475a3f859cafafe39aef4
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJSyDRmxwdpwBu2o1G2VdHv8fDZ.jpg",Un dia cualquiera (2025) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=7ee54df9a6946e069fde5af4d66aa4dc9be12e4d
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D6J0Mmn1CWFxD5I0STLvx1luE5.jpg",La Compensacion (2025) BluRay Rip (5.2)
+http://127.0.0.1:6878/ace/getstream?id=27e7920d941e66f6423811ef996fd45da0873268
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3D6J0Mmn1CWFxD5I0STLvx1luE5.jpg",La Compensacion (2025) BluRay 720pRip (5.2)
+http://127.0.0.1:6878/ace/getstream?id=b9a700df2cec5a25e471bfc3b99e3349eead50c2
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icqY4HTfrCwR4J8NqvcnGsKCp6S.jpg",Hell Hole (2025) BluRay Rip (5.3)
 http://127.0.0.1:6878/ace/getstream?id=88f4d9c1736bbfe72e51976947dd50b603519824
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icqY4HTfrCwR4J8NqvcnGsKCp6S.jpg",Hell Hole (2025) BluRay 720pRip (5.3)
@@ -5562,404 +5658,6 @@ http://127.0.0.1:6878/ace/getstream?id=142c9024de6b617e1d4f61eb727744ca8ee48d0d
 http://127.0.0.1:6878/ace/getstream?id=c15b736b25a88369246bccb11dcead93fcb49bac
 #EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/XM4KsaZrnLRCXzYHRKM8AgIOt4.jpg",La mujer del momento (2024) web dl Hd 1080p (6.6*)
 http://127.0.0.1:6878/ace/getstream?id=c15b736b25a88369246bccb11dcead93fcb49bac
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5zlbRu9X2FCSkDxV4ZhrPrJDgg8.jpg",La cueva azul (2024) BluRay Rip (7.3*)
-http://127.0.0.1:6878/ace/getstream?id=edca2d4eb48772d38bb0f23f4265dc406ccf8d86
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5zlbRu9X2FCSkDxV4ZhrPrJDgg8.jpg",La cueva azul (2024) BluRay 720p (7.3*)
-http://127.0.0.1:6878/ace/getstream?id=edca2d4eb48772d38bb0f23f4265dc406ccf8d86
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5zlbRu9X2FCSkDxV4ZhrPrJDgg8.jpg",La cueva azul (2024) BluRay 1080p (7.3*)
-http://127.0.0.1:6878/ace/getstream?id=e7ae69240e7203921182770bd932245b8e04b24b
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5zlbRu9X2FCSkDxV4ZhrPrJDgg8.jpg",La cueva azul (2024) web dl Hd 1080p (7.3*)
-http://127.0.0.1:6878/ace/getstream?id=5fbad0d7d55cb5fd3dd50a8ca4d4f8bd68ceadf9
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5zlbRu9X2FCSkDxV4ZhrPrJDgg8.jpg",La cueva azul (2024) BluRay 4k 2160P (7.3*)
-http://127.0.0.1:6878/ace/getstream?id=ee303f1c28145505c2ce84641a83ae6124686c90
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEMkV2Un6wy34y3UtRnzfE7yBOh.jpg",Una historia negra (2024) BluRay Rip (7.6)
-http://127.0.0.1:6878/ace/getstream?id=61d1f060f4117ce486ed2d6c33e9baae0db0eb24
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qEMkV2Un6wy34y3UtRnzfE7yBOh.jpg",Una historia negra (2024) BluRay 720pRip (7.6)
-http://127.0.0.1:6878/ace/getstream?id=e65c86acad4748413c34ea9f4957c8765c17c6b6
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nM1uXAoOxJdp7oEr9RUaVviNyzD.jpg",Hermanos (Brothers) (2024) BluRay Rip (10.0)
-http://127.0.0.1:6878/ace/getstream?id=c4b2527221fb2a48e42fa09ed87d8459df46c9a3
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nM1uXAoOxJdp7oEr9RUaVviNyzD.jpg",Hermanos (Brothers) (2024) BluRay 720pRip (10.0)
-http://127.0.0.1:6878/ace/getstream?id=d3f705ece1a978ab17adf425b8e4be78633ad0cc
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nM1uXAoOxJdp7oEr9RUaVviNyzD.jpg",Hermanos (Brothers) (2024) BluRay 1080Rip (10.0)
-http://127.0.0.1:6878/ace/getstream?id=7aec2422e8df054dcd2ad2578e070b27edb6faac
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tXjrP0FfPXtwF3qcqiwqsTfPW6Y.jpg",Hermanos (Brothers) (2024) web dl Hd 1080p (7.0*)
-http://127.0.0.1:6878/ace/getstream?id=206bfd9455e30dba0deaea23f1718d70cd79cadf
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nM1uXAoOxJdp7oEr9RUaVviNyzD.jpg",Hermanos (Brothers) (2024) BluRay 4k 2160P (10.0)
-http://127.0.0.1:6878/ace/getstream?id=e7d6f4a270e6c878ffd095582c771190d5501aa3
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UYeDUzFIscGVr0mo7isvnrVYvO.jpg",Fuera de las sombras  (2024) BluRay Rip (7.6)
-http://127.0.0.1:6878/ace/getstream?id=febc4fccfbdf8a78ce5583338a29696d39dc60f6
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7UYeDUzFIscGVr0mo7isvnrVYvO.jpg",Fuera de las sombras  (2024) BluRay 720pRip (7.6)
-http://127.0.0.1:6878/ace/getstream?id=b2bf0cf8e18fdd21ff56c76769bfdd22cb951832
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DAXwi4y941ryPoGbzUlFEEiPAo.jpg",Diabolik Quien eres (2024) BluRay Rip (6.2)
-http://127.0.0.1:6878/ace/getstream?id=0589312a49508032cb14b437e1895163500110d9
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1DAXwi4y941ryPoGbzUlFEEiPAo.jpg",Diabolik Quien eres (2024) BluRay 720pRip (6.2)
-http://127.0.0.1:6878/ace/getstream?id=1052f0c3c62ab11d82c55a5d656d540a9396a4fd
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iUVHcDUhDe1lUBcPYtd919MJpb.jpg",The Arctic Convoy (2024) BluRay Rip (6.2)
-http://127.0.0.1:6878/ace/getstream?id=1a733d0544472dd8f74446fed92c327fe6a31b12
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iUVHcDUhDe1lUBcPYtd919MJpb.jpg",The Arctic Convoy (2024) BluRay 1080Rip (6.2)
-http://127.0.0.1:6878/ace/getstream?id=e1a849dbf4d01f1aa970c418cf0337d7750d184b
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iUVHcDUhDe1lUBcPYtd919MJpb.jpg",The Arctic Convoy (2024) BluRay 4k 2160P (6.2)
-http://127.0.0.1:6878/ace/getstream?id=1e6fc18e91dce76dbf74fbd45a7f780115958b03
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKflNpAkZsA5IydLqF4ExbalcYt.jpg",Oscura obsesion (2024) BluRay Rip (5.9)
-http://127.0.0.1:6878/ace/getstream?id=7a56faccdccdc3b5ce3c2605563967378775e8fe
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKflNpAkZsA5IydLqF4ExbalcYt.jpg",Oscura obsesion (2024) BluRay 720pRip (5.9)
-http://127.0.0.1:6878/ace/getstream?id=09aaa746fafee44f1a8d29629a38a6dda188bb80
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hKflNpAkZsA5IydLqF4ExbalcYt.jpg",Oscura obsesion (2024) BluRay 1080Rip (5.9)
-http://127.0.0.1:6878/ace/getstream?id=fee73849588774616c1ac02ec3c80547d7f62f9a
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33S6yUnEWueNVZABJeFPKUd7Rmz.jpg",Ahi afuera (Outside) (2024) BluRay Rip (3.0)
-http://127.0.0.1:6878/ace/getstream?id=858ddacc39f1bb5a9f2e067e19a75983fbc3391b
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/33S6yUnEWueNVZABJeFPKUd7Rmz.jpg",Ahi afuera (Outside) (2024) BluRay 720pRip (3.0)
-http://127.0.0.1:6878/ace/getstream?id=84f9da4e292287a47fc429efb47434334b7ac983
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrzKoiLUdKuKqtYOKS2orLRoUhv.jpg",El atraco (Napad) (2024) BluRay Rip (8.2)
-http://127.0.0.1:6878/ace/getstream?id=d501e94fd6ff9bc5784f559743a806bb25e91b8e
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrzKoiLUdKuKqtYOKS2orLRoUhv.jpg",El atraco (Napad) (2024) BluRay 720pRip (8.2)
-http://127.0.0.1:6878/ace/getstream?id=bfa8c0e7041d584564bcc5155a09af258fd86b8a
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/guXYrVOdyTCmBtH8voVPmeroW6S.jpg",El atraco (2024) web dl Hd 1080p (7.3*)
-http://127.0.0.1:6878/ace/getstream?id=79d80fc03387e6f7fdd66e9be16d497b3ece499b
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Iwkd9m3vGo32bjibNrfM7dtwJd.jpg",Asalto a la comisaria (2024) BluRay Rip (6.3)
-http://127.0.0.1:6878/ace/getstream?id=d479f213a43a58c756cdb730f095d64b6a7d129a
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Iwkd9m3vGo32bjibNrfM7dtwJd.jpg",Asalto a la comisaria (2024) BluRay 720pRip (6.3)
-http://127.0.0.1:6878/ace/getstream?id=b2aec6a2ef4c680aec80bc14556621848e960dec
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/utT7f4950qKxfuRnIwza2erIfn8.jpg",Alien: Romulus (2024) BluRay Rip (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=dc74bd0b1a75c51b16e51f08ec62208f99e39a08
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/utT7f4950qKxfuRnIwza2erIfn8.jpg",Alien: Romulus (2024) BluRay 720p (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=bcc86460d68a90d551b6744e8d53a442499c1980
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/utT7f4950qKxfuRnIwza2erIfn8.jpg",Alien: Romulus (2024) web dl Hd 1080p (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=e76a55037a03079063242e0f5bb41eafcf7488c5
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",Alien Romulus (2024) BluRay 1080Rip (7.2)
-http://127.0.0.1:6878/ace/getstream?id=a0e6c88a290833f4605af02623819350448bff8a
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",Alien Romulus (2024) BluRay 4k 2160P (7.2)
-http://127.0.0.1:6878/ace/getstream?id=6ec0be50177148e189d6dc78818c3d59c7c44998
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8Jx4vpBG258jPxd4o0kOLDwTvm.jpg",Las contrabandistas de guncheon (2024) BluRay Rip (6.7)
-http://127.0.0.1:6878/ace/getstream?id=2dd48b6fe1500e37c8f4a3beadbbce2d0c4a0b30
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8Jx4vpBG258jPxd4o0kOLDwTvm.jpg",Las contrabandistas de guncheon (2024) BluRay 720pRip (6.7)
-http://127.0.0.1:6878/ace/getstream?id=c9cf1edc19d4dc15505e240824eae393dca9ad90
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j8Jx4vpBG258jPxd4o0kOLDwTvm.jpg",Las contrabandistas de guncheon (2024) BluRay 1080Rip (6.7)
-http://127.0.0.1:6878/ace/getstream?id=fa02a968ec175b2f68430974bf240b970aa990ac
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hg9OeaCRSpazrfqYyEFr6BDaZW8.jpg",Invasion insurreccion (2024) BluRay Rip (8.0)
-http://127.0.0.1:6878/ace/getstream?id=6948f758960d13f206ddad02fe9697cdbecee0f5
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hg9OeaCRSpazrfqYyEFr6BDaZW8.jpg",Invasion insurreccion (2024) BluRay 720pRip (8.0)
-http://127.0.0.1:6878/ace/getstream?id=a1ba6537c2e3a99cf043677fb80d079b89a2472d
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hg9OeaCRSpazrfqYyEFr6BDaZW8.jpg",Invasion insurreccion (2024) BluRay 1080Rip (8.0)
-http://127.0.0.1:6878/ace/getstream?id=c62d07123066dacfb26ce90789c01b402c69fcca
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ic4cgoD5BAum9Y5qU5lVldlsd7.jpg",Salvajes (2024) BluRay 1080Rip (6.5)
-http://127.0.0.1:6878/ace/getstream?id=4c7a1ecdfc6575bcf68f46634421eaca885a29ad
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Ic4cgoD5BAum9Y5qU5lVldlsd7.jpg",Salvajes (2024) BluRay 4k 2160P (6.5)
-http://127.0.0.1:6878/ace/getstream?id=98b1d328efef979d1ababccc455500c58590761c
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TQ4WcuSgwdSdM7DtBKQdjBDGOZ.jpg",Pandemonium (2024) BluRay Rip (5.3)
-http://127.0.0.1:6878/ace/getstream?id=1732c9abd6832693e51575d52c0809fc3ec13082
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TQ4WcuSgwdSdM7DtBKQdjBDGOZ.jpg",Pandemonium (2024) BluRay 720pRip (5.3)
-http://127.0.0.1:6878/ace/getstream?id=6dbadf5367755a95a478e3a98193c3bc63b206d5
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TQ4WcuSgwdSdM7DtBKQdjBDGOZ.jpg",Pandemonium (2024) BluRay 1080Rip (5.3)
-http://127.0.0.1:6878/ace/getstream?id=0b65cd5480928637fd563c02ecf7b8824f785524
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/TQ4WcuSgwdSdM7DtBKQdjBDGOZ.jpg",Pandemonium (2024) Web dl Hd 1080p  (5.3)
-http://127.0.0.1:6878/ace/getstream?id=09a61a6e24c0ada110f552c71e7c56858991bc13
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4wbuIfaDFM7UK0Hekth530YTpSr.jpg",Pico de oro y sus amigos (2024) Web dl Hd 1080p  (6.5)
-http://127.0.0.1:6878/ace/getstream?id=2f2bdb0f02ca067dc59e41c18c5eace7060bbdc3
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv1IoM6xlCdAoOzUmgB9XTnADC.jpg",Caddo Lake (2024) BluRay Rip (7.9)
-http://127.0.0.1:6878/ace/getstream?id=75dbd87c3d4a951847de3e0ba75bd8650049aaf3
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv1IoM6xlCdAoOzUmgB9XTnADC.jpg",Caddo Lake (2024) BluRay 720pRip (7.9)
-http://127.0.0.1:6878/ace/getstream?id=29638cb5ae0ea99a736ba078d802faf3c9a6fd68
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv1IoM6xlCdAoOzUmgB9XTnADC.jpg",Caddo Lake (2024) BluRay 1080Rip (7.9)
-http://127.0.0.1:6878/ace/getstream?id=97e5aa3a456c6ac75849cf7cdbac186c9f293dc4
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sv1IoM6xlCdAoOzUmgB9XTnADC.jpg",Caddo Lake (2024) Web dl Hd 1080p  (7.9)
-http://127.0.0.1:6878/ace/getstream?id=0f4bdae55923dbc23b10121ee14eaefcfe2bdc8a
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IACpC7RXDFs2ANj6UVZu9vQsXR.jpg",Memory (2024) BluRay Rip (7.2)
-http://127.0.0.1:6878/ace/getstream?id=252acd6ac08adfdc75fa9a66f407518df9be13d5
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IACpC7RXDFs2ANj6UVZu9vQsXR.jpg",Memory (2024) BluRay 720pRip (7.2)
-http://127.0.0.1:6878/ace/getstream?id=6d9e7a69e4ec8a7f5104cb923b5298724a35d429
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9IACpC7RXDFs2ANj6UVZu9vQsXR.jpg",Memory (2024) BluRay 4k 2160P (7.2)
-http://127.0.0.1:6878/ace/getstream?id=f016a9793dcd887a6d88c2c4278ab861b3b608ab
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XvZaOQpgXh6jWbyvuG9lTSHm7c.jpg",El bus de la vida (2024) BluRay Rip (7.3)
-http://127.0.0.1:6878/ace/getstream?id=c594b6bbcbc56bea046a9dd7c71f059f91bbb0ca
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XvZaOQpgXh6jWbyvuG9lTSHm7c.jpg",El bus de la vida (2024) BluRay 720pRip (7.3)
-http://127.0.0.1:6878/ace/getstream?id=c5e166b12ba72e1474613b27bf1c322961bfe1e7
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2XvZaOQpgXh6jWbyvuG9lTSHm7c.jpg",El bus de la vida (2024) BluRay 1080Rip (7.3)
-http://127.0.0.1:6878/ace/getstream?id=7e23ccb199d160ba7d8603ffcf2f01b6b3e9c39d
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQTpmzVlg55Fj0IXnkhzOyBP6kz.jpg",Descansa en paz (2024) BluRay Rip (6.0)
-http://127.0.0.1:6878/ace/getstream?id=01bdbbf131cd38bc2d9edfb8b3accf9c4237484a
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQTpmzVlg55Fj0IXnkhzOyBP6kz.jpg",Descansa en paz (2024) BluRay 720pRip (6.0)
-http://127.0.0.1:6878/ace/getstream?id=17b8ae8f630592d25707cb40f136f7fd72bf1d8c
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQTpmzVlg55Fj0IXnkhzOyBP6kz.jpg",Descansa en paz (2024) BluRay 1080Rip (6.0)
-http://127.0.0.1:6878/ace/getstream?id=a039c69866b933f36ca01ec1369a3504262d23e6
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH7Orig1yqa6ojMLIzLDxA2GRkH.jpg",Una aventura en Marruecos  (2024) BluRay Rip (6.0)
-http://127.0.0.1:6878/ace/getstream?id=d2ea30ecc01a4079042b56ce6ed1bb5e5cacee27
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sH7Orig1yqa6ojMLIzLDxA2GRkH.jpg",Una aventura en Marruecos  (2024) BluRay 720pRip (6.0)
-http://127.0.0.1:6878/ace/getstream?id=f9a605a348695cebff611f08939cd768c71f5ea7
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg",Strangers Capitulo 1 (2024) BluRay Rip (5.9)
-http://127.0.0.1:6878/ace/getstream?id=90ccb8593db986c71e1aca2d0a1ff3dbf8652677
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg",Strangers Capitulo 1 (2024) BluRay 720pRip (5.9)
-http://127.0.0.1:6878/ace/getstream?id=b2dffc114619194fcc51da9468fdcb3fb2ebd900
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg",Strangers Capitulo 1 (2024) BluRay 1080Rip (5.9)
-http://127.0.0.1:6878/ace/getstream?id=4c9f8df973da6dc9d6308ee0d6b0abd7672c2941
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYsCNpW4k7Pd7ac3uQfBhr2ihtW.jpg",Strangers Capitulo 1 (2024) BluRay 4k 2160P (5.9)
-http://127.0.0.1:6878/ace/getstream?id=f17a3d2c43bcd30268dd7a669de58c689e2ebd29
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",Bitelchus Bitelchus (2024) BluRay Rip (7.3*)
-http://127.0.0.1:6878/ace/getstream?id=e74449921a3003fcd126b55de49fe65fd855052d
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",Bitelchus Bitelchus (2024) BluRay 720p (7.3*)
-http://127.0.0.1:6878/ace/getstream?id=10cee3f39b831b1536f525295f470f53386ced87
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",Bitelchs Bitelchus (2024) BluRay 1080p (7.3*)
-http://127.0.0.1:6878/ace/getstream?id=1fecce7ab7e01f0ffffe801cd20e5ea523fc3365
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",Bitelchus Bitelchus (2024) web dl Hd 1080p (7.3*)
-http://127.0.0.1:6878/ace/getstream?id=f39912decfbb515452385a13964adfd3fcdba2ee
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kWJw7dCWHcfMLr0irTHAPIKrJ4I.jpg",Bitelchus Bitelchus (2024) BluRay 4k 2160P  (7.3*)
-http://127.0.0.1:6878/ace/getstream?id=8a231206d937157b248bea4ad50da8499e5d9a9a
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uT3xW3h0aFDRH0qBb8zNFzMHfTK.jpg",La fragua (2024) BluRay Rip (6.3*)
-http://127.0.0.1:6878/ace/getstream?id=0673adaa4940fd2d88123ed6c49503f98d739886
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uT3xW3h0aFDRH0qBb8zNFzMHfTK.jpg",La fragua (2024) BluRay 720p (6.3*)
-http://127.0.0.1:6878/ace/getstream?id=a330d79f91b06fdc6e395bff84fd21306c8b158d
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uT3xW3h0aFDRH0qBb8zNFzMHfTK.jpg",La fragua (2024) BluRay 1080p (6.3*)
-http://127.0.0.1:6878/ace/getstream?id=e5c01de5b32f24e0c9db528bdd34fe3641ff730f
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uT3xW3h0aFDRH0qBb8zNFzMHfTK.jpg",La fragua (2024) web dl Hd 1080p (6.3*)
-http://127.0.0.1:6878/ace/getstream?id=e49a1dfd869e7fca0e0026db936f145067ad2f04
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uT3xW3h0aFDRH0qBb8zNFzMHfTK.jpg",La fragua (2024) BluRay 4k 2160P  (6.3*)
-http://127.0.0.1:6878/ace/getstream?id=e139ec498aa0313db497707419b6e7341e844010
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXXVN4HJvKeaUfD4f89246iFCKU.jpg",De viaje con mi asesino (2024) BluRay Rip (5.5*)
-http://127.0.0.1:6878/ace/getstream?id=95a8ef6741acfdb249157b220810b2fb36ac1c31
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXXVN4HJvKeaUfD4f89246iFCKU.jpg",De viaje con mi asesino (2024) BluRay 720p (5.5*)
-http://127.0.0.1:6878/ace/getstream?id=277ff21cb92b7029fb306a3f6ab9b21c2e4c0aeb
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXXVN4HJvKeaUfD4f89246iFCKU.jpg",De viaje con mi asesino (2024) BluRay 1080p (5.5*)
-http://127.0.0.1:6878/ace/getstream?id=67fe05975dcc7f221ce7bd05d99183c2c172386f
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rXXVN4HJvKeaUfD4f89246iFCKU.jpg",De viaje con mi asesino (2024) web dl Hd 1080p (5.5*)
-http://127.0.0.1:6878/ace/getstream?id=e91d22cc7c06e10a1cf8171730e1c4a5e712d28d
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnEbMy5gurTCASVb0W2WoI1rX3Z.jpg",La Hierba del Diablo (2024) BluRay Rip (5.0*)
-http://127.0.0.1:6878/ace/getstream?id=e5d4d70d36073a8969cfc2d4a6f90b9d1476e967
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnEbMy5gurTCASVb0W2WoI1rX3Z.jpg",La Hierba del Diablo (2024) BluRay 720p (5.0*)
-http://127.0.0.1:6878/ace/getstream?id=56eeafd9d88d78a4f7bf53b98bd7e3ecd58933db
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fnEbMy5gurTCASVb0W2WoI1rX3Z.jpg",La Hierba del Diablo (2024) web dl Hd 1080p (5.0*)
-http://127.0.0.1:6878/ace/getstream?id=675121a1dc25795f5276a94e9886f14e19bda0ce
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lq4d4Mimhao3HANVqwDfoK7wOZU.jpg",La bandera (2024) BluRay Rip (5.0*)
-http://127.0.0.1:6878/ace/getstream?id=39672085f7ba317f791287559675bb0491efc0e3
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lq4d4Mimhao3HANVqwDfoK7wOZU.jpg",La bandera (2024) BluRay 720p (5.0*)
-http://127.0.0.1:6878/ace/getstream?id=4f179f66fce9fc1ee2b3cbbbe0478f2b2c9ed602
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lq4d4Mimhao3HANVqwDfoK7wOZU.jpg",La bandera (2024) web dl Hd 1080p (5.0*)
-http://127.0.0.1:6878/ace/getstream?id=45118f7f188cfea1c77332fed8f9fa73f4cb4f96
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/untiv8bkuKAZO4yzDXu1ErlJnvA.jpg",Summer Camp (2024) BluRay Rip (5.0*)
-http://127.0.0.1:6878/ace/getstream?id=22feb66acb8b127a8336ce728c0b13df3f558677
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/untiv8bkuKAZO4yzDXu1ErlJnvA.jpg",Summer Camp (2024) BluRay 720p (5.0*)
-http://127.0.0.1:6878/ace/getstream?id=0ef7cf819ab82fc076b691e07bf308a422483190
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/untiv8bkuKAZO4yzDXu1ErlJnvA.jpg",Summer Camp (2024) web dl Hd 1080p (5.0*)
-http://127.0.0.1:6878/ace/getstream?id=475c0152ad7bddec6250b1b1fa35edb3cfce2b85
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cDAtutBstcNXbNJeyS044zofuw2.jpg",La letra con sangre entra (2024) BluRay 720pRip (5.0)
-http://127.0.0.1:6878/ace/getstream?id=6d3c300f6a53fcf87fa643bc4fd7fb46c341ffc6
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU50LpVZ7doTyJeC9JaqcbeH4ef.jpg",Kilometros duros  (2024) BluRay 720pRip (6.3)
-http://127.0.0.1:6878/ace/getstream?id=43aaf7d78bff5932748746546417ef1d218568a1
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pU50LpVZ7doTyJeC9JaqcbeH4ef.jpg",Kilometros duros  (2024) BluRay 1080Rip (6.3)
-http://127.0.0.1:6878/ace/getstream?id=bf19a07a986e6d859235ab8169d5b79aa37d7830
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vF1c2qgjSP4bKi0Aq7F56AsfmtB.jpg",Perdido (2024) BluRay Rip (5.5*)
-http://127.0.0.1:6878/ace/getstream?id=f616b70310f88f79a062d5b62aebae23ee604dbd
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vF1c2qgjSP4bKi0Aq7F56AsfmtB.jpg",Perdido (2024) BluRay 720p (5.5*)
-http://127.0.0.1:6878/ace/getstream?id=5aa665fece36163f500459ebe5380358899a39f8
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vF1c2qgjSP4bKi0Aq7F56AsfmtB.jpg",Perdido (2024) BluRay 4k 2160P (5.5*)
-http://127.0.0.1:6878/ace/getstream?id=dd67f9d490d12e41c67878113e8bc01b4b764b56
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9Q2Gvyf50O6V5oXBGZYuT3Qjdkb.jpg",El hoyo 2 (2024) web dl Hd 1080p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=beffa3a715ea3b28ae78a8a6e49b503d1dd849ea
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5aKj8cJbTfvwYKB4l1BvGt77e65.jpg",Lo que hay dentro (2024) BluRay Rip (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=68713355e2ba0a2bc7cc623d778d3dda0b122f4e
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5aKj8cJbTfvwYKB4l1BvGt77e65.jpg",Lo que hay dentro (2024) BluRay 720p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=29064a2342246af3e45a8bfbafe608d16e53b817
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5aKj8cJbTfvwYKB4l1BvGt77e65.jpg",Lo que hay dentro (2024) web dl Hd 1080p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=432d409735d2253d3fadf8f94dfe4809bee627ce
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6W3LWbOZTbmv0SKe4OizWR0rEtW.jpg",Vidas perfectas (2024) BluRay Rip (6.9*)
-http://127.0.0.1:6878/ace/getstream?id=944161cbc5e11d6ac2746878bc9c73fbfba654ee
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6W3LWbOZTbmv0SKe4OizWR0rEtW.jpg",Vidas perfectas (2024) BluRay 720p (6.9*)
-http://127.0.0.1:6878/ace/getstream?id=d7c020f865dc23e21fe4b6468eb2c87546a831e1
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6W3LWbOZTbmv0SKe4OizWR0rEtW.jpg",Vidas perfectas (2024) BluRay 1080p (6.9*)
-http://127.0.0.1:6878/ace/getstream?id=db56a7c92c9e031003491fa2ef651d4e398745eb
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6W3LWbOZTbmv0SKe4OizWR0rEtW.jpg",Vidas perfectas (2024) web dl Hd 1080p (6.9*)
-http://127.0.0.1:6878/ace/getstream?id=cf8062d38877a27692fda40bbfbcb769a0687494
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6W3LWbOZTbmv0SKe4OizWR0rEtW.jpg",Vidas perfectas (2024) BluRay 4k 2160P (6.9*)
-http://127.0.0.1:6878/ace/getstream?id=5c247f51d7730d470cb90bd97a88c46bdacf0ee4
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o4HzAhQatg9wHtf8AQrqalXYjT0.jpg",Sombras del pasado (2024) BluRay Rip (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=674d5a9cb84fa54ac9ac3f50ba746c8835a04332
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o4HzAhQatg9wHtf8AQrqalXYjT0.jpg",Sombras del pasado (2024) BluRay 720p (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=76143198d78b0bde5efd5f1ee187ca4620b914b0
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o4HzAhQatg9wHtf8AQrqalXYjT0.jpg",Sombras del pasado (2024) BluRay 1080p (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=8e232f7238d43652997031ffb14ece2f41698a50
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o4HzAhQatg9wHtf8AQrqalXYjT0.jpg",Sombras del pasado (2024) web dl Hd 1080p (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=2f7a602e761dea527e41a4bc68e98e5bfeb76860
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o4HzAhQatg9wHtf8AQrqalXYjT0.jpg",Sombras del pasado (2024) BluRay 4k 2160P (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=f7b5cd2a69f2b80ac572265b226064f280dea68d
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKOaTDLneUOerz4PiprCVPk4a7k.jpg",Si fueras el ultimo (2024) BluRay Rip (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=01754b738631dfe5da6ffbde6383152f44c024f1
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKOaTDLneUOerz4PiprCVPk4a7k.jpg",Si fueras el ultimo (2024) BluRay 720p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=81c55c49f9740c6a2d7cd88a53a677e1e7ac7228
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKOaTDLneUOerz4PiprCVPk4a7k.jpg",Si fueras el ltimo (2024) BluRay 1080p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=354fe5c95f1acfc03a470dd3c4f160ed71773b50
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKOaTDLneUOerz4PiprCVPk4a7k.jpg",Si fueras el último (2024) web dl Hd 1080p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=f4227839c3de3518f45f00e8d369a0f08918da6b
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKOaTDLneUOerz4PiprCVPk4a7k.jpg",Si fueras el último (2024) BluRay 4k 2160P (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=841dd0421046fb2f14a12c2eaace953c16946cd4
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o4HzAhQatg9wHtf8AQrqalXYjT0.jpg",Sombras del pasado (2024) BluRay Rip (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=674d5a9cb84fa54ac9ac3f50ba746c8835a04332
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o4HzAhQatg9wHtf8AQrqalXYjT0.jpg",Sombras del pasado (2024) BluRay 720p (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=76143198d78b0bde5efd5f1ee187ca4620b914b0
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o4HzAhQatg9wHtf8AQrqalXYjT0.jpg",Sombras del pasado (2024) BluRay 4k 2160P (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=f7b5cd2a69f2b80ac572265b226064f280dea68d
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKOaTDLneUOerz4PiprCVPk4a7k.jpg",Si fueras el ultimo (2024) BluRay Rip (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=01754b738631dfe5da6ffbde6383152f44c024f1
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKOaTDLneUOerz4PiprCVPk4a7k.jpg",Si fueras el ultimo (2024) BluRay 720p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=81c55c49f9740c6a2d7cd88a53a677e1e7ac7228
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKOaTDLneUOerz4PiprCVPk4a7k.jpg",Si fueras el ultimo (2024) BluRay 1080p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=354fe5c95f1acfc03a470dd3c4f160ed71773b50
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fKOaTDLneUOerz4PiprCVPk4a7k.jpg",Si fueras el ultimo (2024) BluRay 4k 2160P (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=841dd0421046fb2f14a12c2eaace953c16946cd4
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hHieHHistITyofisZBWc562YtLl.jpg",Dinero sucio (2024) BluRay Rip (5.0*)
-http://127.0.0.1:6878/ace/getstream?id=ed439b07a3945d8fd5dcd3b8a02ac9fb04750c23
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hHieHHistITyofisZBWc562YtLl.jpg",Dinero sucio (2024) BluRay 720p (5.0*)
-http://127.0.0.1:6878/ace/getstream?id=081a5006b75da78d87471d13014db1ea7a038a7e
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hHieHHistITyofisZBWc562YtLl.jpg",Dinero sucio (2024) BluRay 1080p (5.0*)
-http://127.0.0.1:6878/ace/getstream?id=d5994c5a4b41717cad2e9f9f43b53ee931b79149
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5g5FdOUUVJEpduADQ4T5WPTt6A.jpg",Los tipos malos ¿Truco o atraco? (2024) web dl Hd 1080p (7.3*)
-http://127.0.0.1:6878/ace/getstream?id=2bf63fc21e194c3789cc4d0d04ba84e66cc6ee3e
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b5g5FdOUUVJEpduADQ4T5WPTt6A.jpg",Los tipos malos ¿Truco o atraco? (2024) web dl Hd 1080p (7.3*)
-http://127.0.0.1:6878/ace/getstream?id=6c7fd58319c4b4ce8d4c8606f7db9a52d688cdb4
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2TIz7cpjEOWO51PjF6twWJFJnLw.jpg",Kill Boy (2024) BluRay Rip (6.9*)
-http://127.0.0.1:6878/ace/getstream?id=3b2b34346febc9833cfaadffe04eddf0d2390db3
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2TIz7cpjEOWO51PjF6twWJFJnLw.jpg",Kill Boy (2024) BluRay 720p (6.9*)
-http://127.0.0.1:6878/ace/getstream?id=ca2ba4f796e21b89ddf60593f9d5c0b874575883
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2TIz7cpjEOWO51PjF6twWJFJnLw.jpg",Kill Boy (2024) BluRay 1080p (6.9*)
-http://127.0.0.1:6878/ace/getstream?id=c796ec86492c8ab23095ab8908067160dc37a596
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2TIz7cpjEOWO51PjF6twWJFJnLw.jpg",Kill Boy (2024) web dl Hd 1080p (6.9*)
-http://127.0.0.1:6878/ace/getstream?id=250345b3614890e7b862ebc2c5c868de3d65ac30
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2TIz7cpjEOWO51PjF6twWJFJnLw.jpg",Kill Boy (2024) BluRay 4k 2160P (6.9*)
-http://127.0.0.1:6878/ace/getstream?id=90e5edc04a934c32cfe15ad17fe8a19fc3a2bf9b
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zcJVEJaEe32GfbLpHt4OSW2PBzV.jpg",La casa de los susurros (2024) BluRay Rip (6.1*)
-http://127.0.0.1:6878/ace/getstream?id=c2444a3d228ddc17cc2f78678d0cb5a4cbf2fd17
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zcJVEJaEe32GfbLpHt4OSW2PBzV.jpg",La casa de los susurros (2024) BluRay 720p (6.1*)
-http://127.0.0.1:6878/ace/getstream?id=5511215af4b0e35725cbe5c93e92c0b0aa6130b6
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zcJVEJaEe32GfbLpHt4OSW2PBzV.jpg",La casa de los susurros (2024) BluRay 1080p (6.1*)
-http://127.0.0.1:6878/ace/getstream?id=07fbfae7bc2ef997dcda2b8d92928f0f9a2ac6f5
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zcJVEJaEe32GfbLpHt4OSW2PBzV.jpg",La casa de los susurros (2024) web dl Hd 1080p (6.1*)
-http://127.0.0.1:6878/ace/getstream?id=f147c91c345f2b004c1c7b49e3f2daacb26af2f1
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zcJVEJaEe32GfbLpHt4OSW2PBzV.jpg",La casa de los susurros (2024) BluRay 4k 2160P (6.1*)
-http://127.0.0.1:6878/ace/getstream?id=70ba39bd0517786566df4b2cabb7777da461ebbc
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2sAqKTMSDtrQzsh1UkBBlbQzono.jpg",Aguanta la respiracion (2024) BluRay Rip (6.3*)
-http://127.0.0.1:6878/ace/getstream?id=be9a68581d9af515efab035b053c4d1206314133
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2sAqKTMSDtrQzsh1UkBBlbQzono.jpg",Aguanta la respiracion (2024) BluRay 720p (6.3*)
-http://127.0.0.1:6878/ace/getstream?id=81afb6fdfcde304e2e9e5f7e7220eaed6ce64021
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2sAqKTMSDtrQzsh1UkBBlbQzono.jpg",Aguanta la respiracion (2024) web dl Hd 1080p (6.3*)
-http://127.0.0.1:6878/ace/getstream?id=c8999e477f0960030aa447099837c8918beaa842
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2sAqKTMSDtrQzsh1UkBBlbQzono.jpg",Aguanta la respiracion (2024) BluRay 4k 2160P (6.3*)
-http://127.0.0.1:6878/ace/getstream?id=b234075637c046ab291629fbf99e423c36cce041
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4VhCWB2LjQr66EZhfhd4hLaxotC.jpg",El misterio de Salems Lot (2024) BluRay Rip (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=ebf96b5579e7ac3cc7a5f1ca8195a8984fee7803
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4VhCWB2LjQr66EZhfhd4hLaxotC.jpg",El misterio de Salems Lot (2024) BluRay 720p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=681e8088690cc4d9f67a496433a85b8c8da4fdbf
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4VhCWB2LjQr66EZhfhd4hLaxotC.jpg",El misterio de Salems Lot (2024) web dl Hd 1080p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=54c0679e09b078525dba195c58f97c449b4007d5
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4VhCWB2LjQr66EZhfhd4hLaxotC.jpg",El misterio de Salems Lot (2024) BluRay 4k 2160P (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=35ebd95e9c0c03921fe51d331ce561ee5de6e3c7
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aCuEbAjkYk4ROnkluUQ1hO4tGHf.jpg",Problemas... (2024) BluRay Rip (9.0*)
-http://127.0.0.1:6878/ace/getstream?id=49226caa8edec1a2c79630ab2110ae44f8c143f8
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aCuEbAjkYk4ROnkluUQ1hO4tGHf.jpg",Problemas... (2024) BluRay 720p (9.0*)
-http://127.0.0.1:6878/ace/getstream?id=7ed1139cb1eb4c32273e7942bd23a2d9f0437e09
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aCuEbAjkYk4ROnkluUQ1hO4tGHf.jpg",Problemas... (2024) web dl Hd 1080p (9.0*)
-http://127.0.0.1:6878/ace/getstream?id=cafc09f5755b8107c70c4a606b3a8689bd090af8
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gOJXpovDmtWvUPH30oR4NHVzaal.jpg", The Wasp (2024) BluRay Rip (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=0e7fe42c0a7fef8b4097398e5eb626842cc6984e
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gOJXpovDmtWvUPH30oR4NHVzaal.jpg", The Wasp (2024) BluRay 720p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=58959d5def16b743f3ca05b45a55e95479e8763e
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gOJXpovDmtWvUPH30oR4NHVzaal.jpg", The Wasp (2024) web dl Hd 1080p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=8fb39ec4ed7081e524f040ece1b384897e9827de
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg", Deadpool y Lobezno (2024) BluRay Rip (7.7*)
-http://127.0.0.1:6878/ace/getstream?id=abd7c4453a72d00cb685a6efc17efdd55cd21fb6
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg", Deadpool y Lobezno (2024) BluRay Rip (7.7*)
-http://127.0.0.1:6878/ace/getstream?id=d99348af4b4fd9ffb9b0e2d72ff5ff86fb2d30a5
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg", Deadpool y Lobezno (2024) BluRay 720p (7.7*)
-http://127.0.0.1:6878/ace/getstream?id=b759f6104d4c55631533b58ced9b4b4dbe103e15
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg", Deadpool y Lobezno (2024) BluRay 1080p (7.7*)
-http://127.0.0.1:6878/ace/getstream?id=e2da9841c091d794be4d2461c00e619ede9e844d
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg", Deadpool y Lobezno (2024) web dl Hd 1080p (7.7*)
-http://127.0.0.1:6878/ace/getstream?id=de382ea85295448ebfbc91813bc01541d0c9b722
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg", Deadpool y Lobezno (2024) BluRay 4k 2160P (7.7*)
-http://127.0.0.1:6878/ace/getstream?id=8768d1575e059c3f5dbd2a1c599f4a668722b6a1
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bV7t2Np8VG1i7h6jvPz5ZPUdAVP.jpg",Las aventuras de la Sirenita (2024) Web dl Hd 1080p  (6.0)
-http://127.0.0.1:6878/ace/getstream?id=cd5a03b650b7031d2aec873e94adc2863887de44
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",Gru 4 Mi villano favorito (2024) BluRay Rip (7.2)
-http://127.0.0.1:6878/ace/getstream?id=3aeb90e71a5a92c24ca51eaaa7d0c1dd77e1c440
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",Gru 4 Mi villano favorito (2024) BluRay 720pRip (7.2)
-http://127.0.0.1:6878/ace/getstream?id=47bf34c1c8738de2a20448a5524d04d3a2f83e34
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",Gru 4 Mi villano favorito (2024) BluRay 1080Rip (7.2)
-http://127.0.0.1:6878/ace/getstream?id=5abd792f7ba832f9341a1407aab92953585628ca
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",Gru 4 Mi villano favorito (2024) BluRay 4k 2160P (7.2)
-http://127.0.0.1:6878/ace/getstream?id=7a1b03b5eeec1c5610dcfca838ea4199e36283e5
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wWba3TaojhK7NdycRhoQpsG0FaH.jpg",Gru 4 Mi villano favorito (2024) Web dl Hd 1080p  (7.2)
-http://127.0.0.1:6878/ace/getstream?id=a515e26f52b1054596e8eb8f83b35390f899cdd4
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9EdGBz7SWudhGMlvucVebiczLrq.jpg",Caida libre (2024) BluRay Rip (6.0)
-http://127.0.0.1:6878/ace/getstream?id=be15514c0f1d4b3aaacae24251740da0aae753d3
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oc07MMSumgytiBT1fVTuEMDjUQA.jpg",Carmen (2024) BluRay Rip (6.1)
-http://127.0.0.1:6878/ace/getstream?id=050975fdce8c4fac3074fee013bb944400df5bc2
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oc07MMSumgytiBT1fVTuEMDjUQA.jpg",Carmen (2024) BluRay 720pRip (6.1)
-http://127.0.0.1:6878/ace/getstream?id=ad2c478238c8aca903e342dd68e81998799e560d
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGFcaPyEMK25fIs5BSAHrKsi2Q8.jpg",Lassie (Una nueva aventura)  (2024) BluRay Rip (6.4)
-http://127.0.0.1:6878/ace/getstream?id=4a8b32649dfeabfe82cf543b4fcfac3bf9e694c3
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGFcaPyEMK25fIs5BSAHrKsi2Q8.jpg",Lassie (Una nueva aventura)  (2024) BluRay 720pRip (6.4)
-http://127.0.0.1:6878/ace/getstream?id=182d02b4630b117c4a7fe94f1e32bbd54438d1d5
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGFcaPyEMK25fIs5BSAHrKsi2Q8.jpg",Lassie (Una nueva aventura)  (2024) BluRay 1080Rip (6.4)
-http://127.0.0.1:6878/ace/getstream?id=5659a6766cdf1297cf0d893dc2e78c673121a9ae
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hTMvGolGJLF0GQ7mlwNjbXpsPZ.jpg",Padre no hay mas que uno 4  (2024) BluRay Rip (7.2)
-http://127.0.0.1:6878/ace/getstream?id=a35e3828a06fe253106cf6330cfd2bdb99e21f7a
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hTMvGolGJLF0GQ7mlwNjbXpsPZ.jpg",Padre no hay mas que uno 4  (2024) BluRay 720pRip (7.2)
-http://127.0.0.1:6878/ace/getstream?id=2d1cadf5cb94b280143ca67990af4fcfd32ea699
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hTMvGolGJLF0GQ7mlwNjbXpsPZ.jpg",Padre no hay mas que uno 4 (2024) web dl Hd 1080p (7.2)
-http://127.0.0.1:6878/ace/getstream?id=88fb206a8c112204bd006e80ba3b23c344422a73
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c1vHz6Sl8U2GhV88ev6xOVZgBGz.jpg",Un autentico caballero (2024) BluRay Rip (5.5*)
-http://127.0.0.1:6878/ace/getstream?id=cf4a572e334d9b276a1a2c91c6afbfb7f44b94ab
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c1vHz6Sl8U2GhV88ev6xOVZgBGz.jpg",Un autentico caballero (2024) web dl Hd 1080p (5.5*)
-http://127.0.0.1:6878/ace/getstream?id=e2409db1fea491eeafa64475f2b88df7c54d60f9
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uxLF7YeC8Sdr3ziv8pZ27eq0xsr.jpg",Rez Ball (2024) BluRay Rip (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=eab4362ae903c8b32c432d53a05fca4426adb1f2
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uxLF7YeC8Sdr3ziv8pZ27eq0xsr.jpg",Rez Ball (2024) BluRay 720p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=f73b6df21e18ba53a0bbba7d1b42c128899026d6
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uxLF7YeC8Sdr3ziv8pZ27eq0xsr.jpg",Rez Ball (2024) web dl Hd 1080p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=1a3d97e8bedeca356e6bf93e9f26352ae33e86bb
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uNNVMzJg7NVqxRu8mDLEwIiQgDJ.jpg",Wolfs (2024) BluRay Rip (6.8*)
-http://127.0.0.1:6878/ace/getstream?id=3ca36136a5ebdb011063c03b46e674738217d9f5
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uNNVMzJg7NVqxRu8mDLEwIiQgDJ.jpg",Wolfs (2024) BluRay 720p (6.8*)
-http://127.0.0.1:6878/ace/getstream?id=603159c69810367de2944e5a78ef9e38ae97ceb2
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uNNVMzJg7NVqxRu8mDLEwIiQgDJ.jpg",Wolfs (2024) BluRay 1080p (6.8*)
-http://127.0.0.1:6878/ace/getstream?id=837d9b109907a514a4ea914430bb9e7b2cd39798
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uNNVMzJg7NVqxRu8mDLEwIiQgDJ.jpg",Wolfs (2024) web dl Hd 1080p (6.8*)
-http://127.0.0.1:6878/ace/getstream?id=65aa3891e474c6672571be062e36c33720f63b27
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4GzpipgKlc9XUvj5kOEr2slPjuh.jpg",Project Silence (2024) BluRay Rip (6.9)
-http://127.0.0.1:6878/ace/getstream?id=457431e63244c9bb2994478cff9bd43b7beafc5d
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4GzpipgKlc9XUvj5kOEr2slPjuh.jpg",Project Silence (2024) BluRay 720pRip (6.9)
-http://127.0.0.1:6878/ace/getstream?id=ddb6262f13d8ed0bf7c7bead061f80786b5b6eee
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4GzpipgKlc9XUvj5kOEr2slPjuh.jpg",Project Silence (2024) web dl Hd 1080p (6.9*)
-http://127.0.0.1:6878/ace/getstream?id=f896513e7bd258c1566c4a3da2db005e04e3ee92
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k1n7Hx2c7w3U4HsTXrO231RjOFH.jpg",La ultima sesion de Freud  (2024) BluRay Rip (6.5)
-http://127.0.0.1:6878/ace/getstream?id=fffc336d8fd826ca1f8b628b7f5a68708439c14d
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k1n7Hx2c7w3U4HsTXrO231RjOFH.jpg",La ultima sesion de Freud  (2024) BluRay 720pRip (6.5)
-http://127.0.0.1:6878/ace/getstream?id=62a47b109b2c0d09fcfc3c711ca90afec7e63ff7
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k1n7Hx2c7w3U4HsTXrO231RjOFH.jpg",La ultima sesion de Freud  (2024) BluRay 4k 2160P (6.5)
-http://127.0.0.1:6878/ace/getstream?id=989769c052eb04c4bf04f6cf8df49f7b0d75e874
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hWV7UcEGb2eWpU2egsDY3zg1fMT.jpg",Ex maridos (2024) BluRay Rip (6.3)
-http://127.0.0.1:6878/ace/getstream?id=926c5e1cb31de6c69810474369b41a574fc27083
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hWV7UcEGb2eWpU2egsDY3zg1fMT.jpg",Ex maridos (2024) web dl Hd 1080p (6.2*)
-http://127.0.0.1:6878/ace/getstream?id=9f123faa1ebb5cb3ab8afe960ae771d0d6b6e8cc
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WiAEiqelck0NGWplhL5JQR12eg.jpg",Killer Heat  (2024) BluRay Rip (6.3)
-http://127.0.0.1:6878/ace/getstream?id=183889d60d82b3bd2cca9e817b0d62944b1073e5
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WiAEiqelck0NGWplhL5JQR12eg.jpg",Killer Heat  (2024) BluRay 720pRip (6.3)
-http://127.0.0.1:6878/ace/getstream?id=bc8784bc6ab9c38d56a242e78530c2a82ab4ce3c
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WiAEiqelck0NGWplhL5JQR12eg.jpg",Killer Heat  (2024) BluRay 1080Rip (6.3)
-http://127.0.0.1:6878/ace/getstream?id=8df6803ca23d80db012e8628f8ed90793156cba1
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WiAEiqelck0NGWplhL5JQR12eg.jpg",Killer Heat  (2024) BluRay 4k 2160P (6.3)
-http://127.0.0.1:6878/ace/getstream?id=d4e034c6e5321c80cc908308750dca3ae9405841
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VeDn4oIeUK4XwjWGWMb6qvMImQ.jpg",Corrupcion en Bangkok Entre el cielo y el infierno  (2024) BluRay Rip (5.3)
-http://127.0.0.1:6878/ace/getstream?id=c7c33164be2e025ee930d88462ed49fc8adab304
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6VeDn4oIeUK4XwjWGWMb6qvMImQ.jpg",Corrupcion en Bangkok Entre el cielo y el infierno  (2024) BluRay 720pRip (5.3)
-http://127.0.0.1:6878/ace/getstream?id=6fc4705538fa007f9f4e4a0d9200e9690c1b76cf
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iby8dze3UNZIJnOOgoEUWbEEOtK.jpg",Parpadea dos veces (2024) BluRay Rip (6.8*)
-http://127.0.0.1:6878/ace/getstream?id=74dc26720fd6efec8f28270211035f7fe3669caa
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iby8dze3UNZIJnOOgoEUWbEEOtK.jpg",Parpadea dos veces (2024) BluRay 720p (6.8*)
-http://127.0.0.1:6878/ace/getstream?id=084eda25494e56a24b9841a6c7e328ceec5da212
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iby8dze3UNZIJnOOgoEUWbEEOtK.jpg",Parpadea dos veces (2024) BluRay 1080p (6.8*)
-http://127.0.0.1:6878/ace/getstream?id=25f78f5fbf44c107256aaca7046b090d234878a6
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iby8dze3UNZIJnOOgoEUWbEEOtK.jpg",Parpadea dos veces (2024) web dl Hd 1080p (6.8*)
-http://127.0.0.1:6878/ace/getstream?id=94fe9c3bbee2989a10fa9f702b76eda966b7c9e2
-#EXTINF:-1 group-title="AÑO 2024" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iby8dze3UNZIJnOOgoEUWbEEOtK.jpg",Parpadea dos veces (2024) BluRay 4k 2160P (6.8*)
-http://127.0.0.1:6878/ace/getstream?id=d577bd629f00e35ef9a810dafd31bc824035d39e
 # Carpeta: AÑO 2023
 #EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/glmklbuQHUu3xCq79n9kgPIOyL1.jpg",New Life (2023) BluRay Rip (6.0*)
 http://127.0.0.1:6878/ace/getstream?id=08278982595b62972985949796eb2026789579e8
@@ -6159,60 +5857,6 @@ http://127.0.0.1:6878/ace/getstream?id=20453fc011b1f358e34ef4da83459521f7a8814a
 http://127.0.0.1:6878/ace/getstream?id=c686eb0d354b87dd9020a3aaf65da2f2ae6072e9
 #EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mByUxoMgE9mWSYu3E4m8rkXGaAc.jpg",Los indeseables (2023) web dl Hd 1080p (6.2*)
 http://127.0.0.1:6878/ace/getstream?id=98e88f6c4d47b15f79a547ca139037c4c2c9cfdb
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sIowNZmpPlmZNU8kehoQ4XAifgd.jpg",The Arctic Convoy (2023) BluRay 720p (6.3*)
-http://127.0.0.1:6878/ace/getstream?id=63973dde839fbdffa50404c1081c4d424341df26
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sIowNZmpPlmZNU8kehoQ4XAifgd.jpg",The Arctic Convoy (2023) web dl Hd 1080p (6.3*)
-http://127.0.0.1:6878/ace/getstream?id=fcc687de0b34254afde3d18b98a6d21030261167
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/alFXr0LEqRSGDUfFNT8sYzHuAc9.jpg",Hada (2023) BluRay Rip (6.8*)
-http://127.0.0.1:6878/ace/getstream?id=a82e55b277100a60758af4031cb15cfc8d158103
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/alFXr0LEqRSGDUfFNT8sYzHuAc9.jpg",Hada (2023) BluRay 720p (6.8*)
-http://127.0.0.1:6878/ace/getstream?id=7dc0a95e72faba65f383aed78cddcb0212b0b477
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/htqqVj0BQgxEz5hjM81q2EzD5AD.jpg",Todos morimos en la oscuridad (2023) BluRay Rip (4.3*)
-http://127.0.0.1:6878/ace/getstream?id=b52354b115da40f00c9e4ce139d51431dc0aafc2
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/htqqVj0BQgxEz5hjM81q2EzD5AD.jpg",Todos morimos en la oscuridad (2023) BluRay 720p (4.3*)
-http://127.0.0.1:6878/ace/getstream?id=b650c5e4733f59b15468eb8828038e1905475e79
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/htqqVj0BQgxEz5hjM81q2EzD5AD.jpg",Todos morimos en la oscuridad (2023) BluRay 1080p (4.3*)
-http://127.0.0.1:6878/ace/getstream?id=8506ae6f4f7e70890bab1c959cfc37e6861afcbd
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x8hiMBkSpVaFQv35xUwNhPi07wK.jpg",Oscuridad total (2023) BluRay Rip (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=90d59afb25250547e9a3e1a4de9f849677ffceeb
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x8hiMBkSpVaFQv35xUwNhPi07wK.jpg",Oscuridad total (2023) BluRay 720p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=339e21b99d2428846afb760d2b5bff227a6ed237
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x8hiMBkSpVaFQv35xUwNhPi07wK.jpg",Oscuridad total (2023) BluRay 1080p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=8e1d2bb591904bb7c57724bb12e280215fc4c1c6
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x8hiMBkSpVaFQv35xUwNhPi07wK.jpg",Oscuridad total (2023) web dl Hd 1080p (6.0*)
-http://127.0.0.1:6878/ace/getstream?id=3fea6c388c0efa36c691b4b109c56fed83978d3e
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6yc0Yn3VhWFXspIXs6gUKMjAi94.jpg",Fear the Night (2023) BluRay Rip (6.1*)
-http://127.0.0.1:6878/ace/getstream?id=8fcd53c65aeee1f29b7f617d76c2d0f299bfab17
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6yc0Yn3VhWFXspIXs6gUKMjAi94.jpg",Fear the Night (2023) BluRay Rip (6.1*)
-http://127.0.0.1:6878/ace/getstream?id=61d5beae1e0071e6c8bb2dd49050cc883ecfeb3e
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6yc0Yn3VhWFXspIXs6gUKMjAi94.jpg",Fear the Night (2023) BluRay 720p (6.1*)
-http://127.0.0.1:6878/ace/getstream?id=dd1cd196b3d855d3c526437ca305b154b467e9d2
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6yc0Yn3VhWFXspIXs6gUKMjAi94.jpg",Fear the Night (2023) BluRay 1080p (6.1*)
-http://127.0.0.1:6878/ace/getstream?id=0558ae900ad024a510a8d519a306e0aa1957dede
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6yc0Yn3VhWFXspIXs6gUKMjAi94.jpg",Fear the Night (2023) web dl Hd 1080p (6.1*)
-http://127.0.0.1:6878/ace/getstream?id=5442e1827c1daa01813038dffe119a83fe59364a
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mfTWiM8hAMpcgGxt5UNAjcBTcVJ.jpg",Blackberry (2023) BluRay Rip (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=efeb1f21f2c9eec68182b0e8d355483e87864714
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mfTWiM8hAMpcgGxt5UNAjcBTcVJ.jpg",Blackberry (2023) BluRay 720p (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=274d378d2b9bad5de7d68c16bd2b0f3bc0b3b738
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mfTWiM8hAMpcgGxt5UNAjcBTcVJ.jpg",Blackberry (2023) BluRay 1080p (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=bc15c2935c16a40fb502d391fe5aa38396ed337c
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mfTWiM8hAMpcgGxt5UNAjcBTcVJ.jpg",Blackberry (2023) BluRay 4k 2160P (7.2*)
-http://127.0.0.1:6878/ace/getstream?id=92aa8122284998915debbd64642fdb45e5dd3a8e
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nfhwjXgIOJbl8vRTGjvc6ryIcgA.jpg",El exorcismo de Eastfield (2023) BluRay Rip (7.0*)
-http://127.0.0.1:6878/ace/getstream?id=de08e5a502042e6697e01c904653b3d0b9031a3c
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nfhwjXgIOJbl8vRTGjvc6ryIcgA.jpg",El exorcismo de Eastfield (2023) BluRay 720p (7.0*)
-http://127.0.0.1:6878/ace/getstream?id=cda543d05c1fa087a0a3cced55963d7918fb1f86
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nfhwjXgIOJbl8vRTGjvc6ryIcgA.jpg",El exorcismo de Eastfield (2023) BluRay 1080p (7.0*)
-http://127.0.0.1:6878/ace/getstream?id=ecd9e857aa9ad1204d78875e6e52046ba89a5aa4
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9F51z9IyVUF3d84Csqm8VfDXbYD.jpg",Retratos de Nitzanim (2023) BluRay Rip (5.5*)
-http://127.0.0.1:6878/ace/getstream?id=f7cdd3b391aaa35120e33c9fe8d6f860c5e953e9
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9F51z9IyVUF3d84Csqm8VfDXbYD.jpg",Retratos de Nitzanim (2023) BluRay 720p (5.5*)
-http://127.0.0.1:6878/ace/getstream?id=027adf1a3cd8fd0fe613de096cc2fac3ceedf4a9
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9F51z9IyVUF3d84Csqm8VfDXbYD.jpg",Retratos de Nitzanim (2023) BluRay 1080p (5.5*)
-http://127.0.0.1:6878/ace/getstream?id=8dda6ceba1735bdef8059a2df4d79bfc8a993509
-#EXTINF:-1 group-title="AÑO 2023" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k1n7Hx2c7w3U4HsTXrO231RjOFH.jpg",La ultima sesion de Freud (2023) web dl Hd 1080p (6.6*)
-http://127.0.0.1:6878/ace/getstream?id=9499426b8681820b09bc48cb104b60427cb51722
 # Carpeta: AÑO 2022
 #EXTINF:-1 group-title="AÑO 2022" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mmZD5ekDOJB0F2qdchvo9CT1FsK.jpg",Menos mal que nos tenemos (2022) web dl Hd 1080p (6.2*)
 http://127.0.0.1:6878/ace/getstream?id=9ecf07fc0f40de51a15ca4ff19938b8f5df2acef
@@ -6236,5 +5880,3 @@ http://127.0.0.1:6878/ace/getstream?id=fb3505cfa458281893cfd2988b21f9883d7ff4f5
 http://127.0.0.1:6878/ace/getstream?id=f7fb7c5b6a29e965a13c7dcd828e876aa150e85c
 #EXTINF:-1 group-title="AÑO 2022" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xWZrnmSlQyJKRICdXDvBRHc2tTw.jpg",Burial (2022) web dl Hd 1080p (5.1*)
 http://127.0.0.1:6878/ace/getstream?id=c465934926aaff4f253b560f44b64353d8f9182a
-#EXTINF:-1 group-title="AÑO 2022" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5AGA6pbBKXZTI8k1c6odx30JuQR.jpg",El tunel de los deseos (2022) web dl Hd 1080p (7.7*)
-http://127.0.0.1:6878/ace/getstream?id=8e2fa1cae3ea729f216b3e3ba0341cbcfcdcb6e4
