@@ -3,7 +3,7 @@ import sys
 
 # URL del archivo .txt en línea
 # ¡IMPORTANTE! Cambia esto por tu URL real si es diferente.
-url_txt = 'https://elcano-kappa.vercel.app/PelisAcestream.txt' 
+url_txt = 'https://elis-gray.vercel.app/PelisAcestream.txt' 
 
 # Nombre del archivo de salida
 archivo_salida = 'acramses'
