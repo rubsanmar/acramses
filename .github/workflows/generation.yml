@@ -1,14 +1,10 @@
 name: Generación acramses
 
 on:
-  # Define la ejecución diaria usando un cron-schedule
   schedule:
-    # Se ejecuta todos los días a las 00:00 UTC
-    - cron: '0 */12 * * *' 
-  # Permite la ejecución manual del workflow desde la interfaz de GitHub
+    - cron: '0 */12 * * *'
   workflow_dispatch:
 
-# 💡 CORRECCIÓN CRÍTICA: Se añaden permisos de escritura (write) al token
 permissions:
   contents: write
 
@@ -17,42 +13,33 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-    # 1. Checkout del código
     - name: Checkout del repositorio
       uses: actions/checkout@v4
 
-    # 2. Configurar Python
     - name: Configurar Python 3.x
       uses: actions/setup-python@v5
       with:
         python-version: '3.x' 
 
-    # 3. Instalar dependencias (si tienes un requirements.txt)
     - name: Instalar dependencias
       run: |
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
-    # 4. Ejecutar el script de Python
     - name: Ejecutar script de generación M3U
       run: python acramses.py
 
-    # 5. Configurar Git para el commit
     - name: Configurar Git
       run: |
         git config user.name "GitHub Actions Bot"
         git config user.email "actions@github.com"
 
-    # 6. Comprobar si hay cambios y hacer commit
     - name: Commit y Push de los cambios si existen
       run: |
-        # Añade todos los cambios (especialmente el archivo .m3u actualizado)
         git add .
         
-        # Comprueba si hay archivos modificados para evitar un commit vacío
         if git diff --cached --exit-code; then
           echo "No se encontraron cambios en el archivo M3U."
         else
           git commit -m "Actualización diaria"
-          # Sube los cambios a la rama principal (reemplaza 'main' si usas 'master')
           git push origin main 
         fi
