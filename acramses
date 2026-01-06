@@ -1,6 +1,406 @@
 #EXTM3U
 #EXTM3U
 # Carpeta: AÑO 2025
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",Adios June (2025) BluRay Rip (6.6)
+http://127.0.0.1:6878/ace/getstream?id=952912bcd4c3da67b4138f53ff6ffa65d6fe3bbc
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",Adios June (2025) BluRay 720pRip (6.6)
+http://127.0.0.1:6878/ace/getstream?id=1c51cc322c2011ad405c69784540de8427eec454
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/uz7eucj2EgBLC0KVjkiCbVrvuX9.jpg",Lo que aprendi de mi pinguino  (2025) BluRay Rip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=1d6c195ade5f8d0a14f24a834b46ed46aa4897a8
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/uz7eucj2EgBLC0KVjkiCbVrvuX9.jpg",Lo que aprendi de mi pinguino  (2025) BluRay 720pRip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=cc340896e1c6c7cd902d4b08d6177e942245a72b
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/uz7eucj2EgBLC0KVjkiCbVrvuX9.jpg",Lo que aprendi de mi pinguino  (2025) BluRay 1080Rip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=2c0ba820fa018d74a4f5989f8f62c077b61a338f
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/uz7eucj2EgBLC0KVjkiCbVrvuX9.jpg",Lo que aprendi de mi pinguino  (2025) BluRay 4k 2160P (7.1)
+http://127.0.0.1:6878/ace/getstream?id=3aeb91829a9aa236d71b55b10e563733cd80bd05
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",Der Tiger (2025) BluRay Rip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=76d21aa6f855aca276c5b5914c6c0a11c20fdd61
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",Der Tiger (2025) BluRay 720pRip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=69210a8a4ed79fd9649a2f774666f655563e141f
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/65Jr1JAgWlu9em8zHhAfrNJJQBt.jpg",Der Tiger (2025) BluRay 1080Rip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=07961e7589ff01c76bf32c351ff73751f7972f70
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg",Dos forajidos (2025) BluRay Rip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=d3d9d8f15687d239c505b8334d7e535d006d5d49
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg",Dos forajidos (2025) BluRay 720pRip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=c6b514905aae3c91cfa34052fa81e025927876dd
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg",Dos forajidos (2025) BluRay 1080Rip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=b50d00b2a670e4db167b0d356b4e6647165f8361
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/tbJ3RkA2s6X5qrBzrYHYTxvDBui.jpg",Dos forajidos (2025) BluRay 4k 2160P (6.7)
+http://127.0.0.1:6878/ace/getstream?id=ed1bb2a1aefe85018fa7a31d32fab7b83ee8567f
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/lFI5tremdnUNCANC0u27Ifedkyh.jpg",La leyenda de Beldham (2025) BluRay 720pRip (5.2)
+http://127.0.0.1:6878/ace/getstream?id=7cf025f6f8c22a5c96a3a6c3b0a6a815c2c75294
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/svscmm7MZml1JqBMl62REnbxhjP.jpg",Romeria (2025) BluRay 720pRip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=f5c747f86316d56c11555019ac611718134cac0d
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/svscmm7MZml1JqBMl62REnbxhjP.jpg",Romeria (2025) BluRay 1080Rip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=adc09cfcb4237fef32cbc07de73e662484271680
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg",Los matrimonios de los Miller  (2025) BluRay Rip (5.8)
+http://127.0.0.1:6878/ace/getstream?id=cc0894507210e00575f4c7289308378d805d047b
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/z7UvGuQ8pSs0JJP3QYCAIsNzYXI.jpg",Los matrimonios de los Miller  (2025) BluRay 720pRip (5.8)
+http://127.0.0.1:6878/ace/getstream?id=1dfa5125b1616aad96dff757cf393955bde8599c
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg",Trap House (2025) BluRay Rip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=32f672aaec1a14e59ae6fc120aaf5d1776547163
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ctU9S47MoJDN9CB7SCaitcfyyIu.jpg",Trap House (2025) BluRay 720pRip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=8878fb67ad0491d1ef01c4273445d4a444504d4b
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg",Wicked Parte II (2025) BluRay Rip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=dfa533c7461ee8edf8a55da96823b09140263b04
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg",Wicked Parte II (2025) BluRay 720pRip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=96f0a6525aac8808f6d739557149aa18f455300b
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg",Wicked Parte II (2025) BluRay 1080Rip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=15dad97cc8ac0939427290d66d07196778f77184
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/u7x3I5V9aP4tMZACmM8ClY8lK6K.jpg",Wicked Parte II (2025) BluRay 4k 2160P (6.7)
+http://127.0.0.1:6878/ace/getstream?id=155936d2e16ac440b2bd7af50de4718a305caf0a
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/xUOAJF4uankgkcCBtvvQJX1VjuH.jpg",Amor En Cuatro Letras (2025) BluRay Rip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=5bbb46cd20f5445aea8a49571210a8446e6eaaaa
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/xUOAJF4uankgkcCBtvvQJX1VjuH.jpg",Amor En Cuatro Letras (2025) BluRay 720pRip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=ef22f530c105a463fae985b59cc4b5aa774932e9
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/xUOAJF4uankgkcCBtvvQJX1VjuH.jpg",Amor En Cuatro Letras (2025) BluRay 1080Rip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=8a8fab2b9a15b1cab6c651d5d5bf25c1f4d7b77b
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/7iyQ3YtCi0BrLVXg3D2VMuUoqG2.jpg",Campamento Garra de Oso (2025) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=67214b993af39a8433cfbc449f1d155a75f5656f
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/7iyQ3YtCi0BrLVXg3D2VMuUoqG2.jpg",Campamento Garra de Oso (2025) BluRay 720pRip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=2a8c2d58bb3b69abe31e3f4682495879c8b713a2
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/zyRXrPcAyJWsnl6lNnfKRDlRie9.jpg",Cold Cross (2025) BluRay Rip (6.0)
+http://127.0.0.1:6878/ace/getstream?id=d445684a5840e4a78477ef8ea3a8ffc292de463f
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/zyRXrPcAyJWsnl6lNnfKRDlRie9.jpg",Cold Cross (2025) BluRay 720pRip (6.0)
+http://127.0.0.1:6878/ace/getstream?id=c1b10df6d2fc54bc02ee243a85c17d9633a2d276
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/xPAcaKFWvbB9fXAmhIr3leBCRVJ.jpg",El Amigo (2025) BluRay Rip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=e686e745e291dacc6fe6f70993cff4a11ce0afbb
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/xPAcaKFWvbB9fXAmhIr3leBCRVJ.jpg",El Amigo (2025) BluRay 720pRip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=0b0037c4076cf64403637afe038618bc92bce343
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/3hrQjmnDZOe9MiwVJuYbo5kv6T7.jpg",Una Amistad Para Siempre La Aventura (2025) BluRay Rip (6.0)
+http://127.0.0.1:6878/ace/getstream?id=94a051f6de8cd123f072ffb3203d00023aad24c6
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/3hrQjmnDZOe9MiwVJuYbo5kv6T7.jpg",Una Amistad Para Siempre La Aventura (2025) BluRay 720pRip (6.0)
+http://127.0.0.1:6878/ace/getstream?id=6ddf6b9981d8987f706623d3e23ba06f6e14beb1
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/aEk9jLbiKTVssdATbrF879NvyyJ.jpg",Strangers Capitulo 2 (2025) BluRay Rip (6.1)
+http://127.0.0.1:6878/ace/getstream?id=bcb6d1802c2547a10fd03c9c26708c1df42214be
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/aEk9jLbiKTVssdATbrF879NvyyJ.jpg",Strangers Capitulo 2 (2025) BluRay 720pRip (6.1)
+http://127.0.0.1:6878/ace/getstream?id=308924c5465c19225bbb5b72b5514c9c062f6ff2
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/aEk9jLbiKTVssdATbrF879NvyyJ.jpg",Strangers Capitulo 2 (2025) BluRay 1080Rip (6.1)
+http://127.0.0.1:6878/ace/getstream?id=3b51de784bf0c9ee6b7124851494f5e81542c40d
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/aEk9jLbiKTVssdATbrF879NvyyJ.jpg",Strangers Capitulo 2 (2025) BluRay 4k 2160P (6.1)
+http://127.0.0.1:6878/ace/getstream?id=7a487d3e78babf2dcefe82bb3a7f35b996a6a13b
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/UHbbLwjeUASlQR4J7SM6BF7cOZ.jpg",El talento (2025) BluRay Rip (6.2*)
+http://127.0.0.1:6878/ace/getstream?id=27cada1123f7636269644242f160ef5348f6015d
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/UHbbLwjeUASlQR4J7SM6BF7cOZ.jpg",El talento (2025) BluRay 720p (6.2*)
+http://127.0.0.1:6878/ace/getstream?id=9f7d076a3745084093994b42ab309e1446cf0619
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/UHbbLwjeUASlQR4J7SM6BF7cOZ.jpg",El talento (2025) web dl Hd 1080p (6.2*)
+http://127.0.0.1:6878/ace/getstream?id=79a5b50ae7296b209ce555fce21c5101be69a319
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xQ4yj1ug4lU9kCR4k3lKuujiXvJ.jpg",Ruido (2025) BluRay Rip (7.6*)
+http://127.0.0.1:6878/ace/getstream?id=2d3cec9ed90382df3bd9426ac52368bba6a977b8
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xQ4yj1ug4lU9kCR4k3lKuujiXvJ.jpg",Ruido (2025) BluRay 720p (7.6*)
+http://127.0.0.1:6878/ace/getstream?id=e88ce46a96cafc99e2ecd98ee45e620459f8a356
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xQ4yj1ug4lU9kCR4k3lKuujiXvJ.jpg",Ruido (2025) web dl Hd 1080p (7.6*)
+http://127.0.0.1:6878/ace/getstream?id=7ba0c44c79756469796d24d3e949cc488212f530
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lYuHiEzoe0V4fDNzhApAdmYOs1d.jpg",Los crímenes de la familia Bansal (2025) BluRay Rip (7.3*)
+http://127.0.0.1:6878/ace/getstream?id=02ebccce07ea7fa6f9ead2d6a4073105b70bd6ff
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lYuHiEzoe0V4fDNzhApAdmYOs1d.jpg",Los crímenes de la familia Bansal (2025) BluRay 720p (7.3*)
+http://127.0.0.1:6878/ace/getstream?id=9928a9fe2a0d5b4fb1c45da17ae22ef6c64891a9
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lYuHiEzoe0V4fDNzhApAdmYOs1d.jpg",Los crímenes de la familia Bansal (2025) web dl Hd 1080p (7.3*)
+http://127.0.0.1:6878/ace/getstream?id=afb06068f90720e97ce315755b47a1f807989afe
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/c6b7JgxtmN1ADVzFPeeY3J11kWt.jpg",Adios, June (2025) BluRay Rip (6.9*)
+http://127.0.0.1:6878/ace/getstream?id=952912bcd4c3da67b4138f53ff6ffa65d6fe3bbc
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/c6b7JgxtmN1ADVzFPeeY3J11kWt.jpg",Adios, June (2025) BluRay 720p (6.9*)
+http://127.0.0.1:6878/ace/getstream?id=1c51cc322c2011ad405c69784540de8427eec454
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/c6b7JgxtmN1ADVzFPeeY3J11kWt.jpg",Adios, June (2025) web dl Hd 1080p (6.9*)
+http://127.0.0.1:6878/ace/getstream?id=0173c96178c90f6d0e9fb8ce9fbdda5cb99eaea5
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/g6QtO93J2nVkJ8BduNE1WS9Fg2h.jpg",Maldita trinidad (2025) BluRay Rip (6.1*)
+http://127.0.0.1:6878/ace/getstream?id=e73d52d191db5cc5b061329f57c8bd64554d12bc
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/g6QtO93J2nVkJ8BduNE1WS9Fg2h.jpg",Maldita trinidad (2025) BluRay 720p (6.1*)
+http://127.0.0.1:6878/ace/getstream?id=47cc80bc3c94ed869cb8194f5375d11935206a02
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/g6QtO93J2nVkJ8BduNE1WS9Fg2h.jpg",Maldita trinidad (2025) BluRay 1080p (6.1*)
+http://127.0.0.1:6878/ace/getstream?id=d3a9b578f489dd872b391d210a336ec227bc9b05
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/g6QtO93J2nVkJ8BduNE1WS9Fg2h.jpg",Maldita trinidad (2025) web dl Hd 1080p (6.1*)
+http://127.0.0.1:6878/ace/getstream?id=8ee5c246937c12fd2e2869167b33228d69437d98
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/g6QtO93J2nVkJ8BduNE1WS9Fg2h.jpg",Maldita trinidad (2025) BluRay 4k 2160P (6.1*)
+http://127.0.0.1:6878/ace/getstream?id=96dede06105512e6c77eb82a3dc3d3bdbf3cf505
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2a191TKeSC8Uh919ouyGfIus7Qo.jpg",Relay (2025) BluRay Rip (7.1*)
+http://127.0.0.1:6878/ace/getstream?id=20a3909405bcb4bb02c1a74b435ff66fc28a4b64
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2a191TKeSC8Uh919ouyGfIus7Qo.jpg",Relay (2025) BluRay 720p (7.1*)
+http://127.0.0.1:6878/ace/getstream?id=779611b91762fba7858a9ceaf1eea375f5fa01ec
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2a191TKeSC8Uh919ouyGfIus7Qo.jpg",Relay (2025) BluRay 1080p (7.1*)
+http://127.0.0.1:6878/ace/getstream?id=a71ae664b7a4d9928f306f82644e8455080681b7
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2a191TKeSC8Uh919ouyGfIus7Qo.jpg",Relay (2025) web dl Hd 1080p (7.1*)
+http://127.0.0.1:6878/ace/getstream?id=367e489206d1e0d08f05d5ec3d51a3f1e8bcf6f0
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2a191TKeSC8Uh919ouyGfIus7Qo.jpg",Relay (2025) BluRay 4k 2160P (7.1*)
+http://127.0.0.1:6878/ace/getstream?id=bff864087b33faee2b8a38d85d61c7329ad72943
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/UHbbLwjeUASlQR4J7SM6BF7cOZ.jpg",El talento (2025) BluRay Rip (6.2*)
+http://127.0.0.1:6878/ace/getstream?id=27cada1123f7636269644242f160ef5348f6015d
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/UHbbLwjeUASlQR4J7SM6BF7cOZ.jpg",El talento (2025) BluRay 720p (6.2*)
+http://127.0.0.1:6878/ace/getstream?id=9f7d076a3745084093994b42ab309e1446cf0619
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/UHbbLwjeUASlQR4J7SM6BF7cOZ.jpg",El talento (2025) web dl Hd 1080p (6.2*)
+http://127.0.0.1:6878/ace/getstream?id=79a5b50ae7296b209ce555fce21c5101be69a319
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xQ4yj1ug4lU9kCR4k3lKuujiXvJ.jpg",Ruido (2025) BluRay Rip (7.6*)
+http://127.0.0.1:6878/ace/getstream?id=2d3cec9ed90382df3bd9426ac52368bba6a977b8
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xQ4yj1ug4lU9kCR4k3lKuujiXvJ.jpg",Ruido (2025) BluRay 720p (7.6*)
+http://127.0.0.1:6878/ace/getstream?id=e88ce46a96cafc99e2ecd98ee45e620459f8a356
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/xQ4yj1ug4lU9kCR4k3lKuujiXvJ.jpg",Ruido (2025) web dl Hd 1080p (7.6*)
+http://127.0.0.1:6878/ace/getstream?id=7ba0c44c79756469796d24d3e949cc488212f530
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lYuHiEzoe0V4fDNzhApAdmYOs1d.jpg",Los crímenes de la familia Bansal (2025) BluRay Rip (7.3*)
+http://127.0.0.1:6878/ace/getstream?id=02ebccce07ea7fa6f9ead2d6a4073105b70bd6ff
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lYuHiEzoe0V4fDNzhApAdmYOs1d.jpg",Los crímenes de la familia Bansal (2025) BluRay 720p (7.3*)
+http://127.0.0.1:6878/ace/getstream?id=9928a9fe2a0d5b4fb1c45da17ae22ef6c64891a9
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/lYuHiEzoe0V4fDNzhApAdmYOs1d.jpg",Los crímenes de la familia Bansal (2025) web dl Hd 1080p (7.3*)
+http://127.0.0.1:6878/ace/getstream?id=afb06068f90720e97ce315755b47a1f807989afe
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/c6b7JgxtmN1ADVzFPeeY3J11kWt.jpg",Adios, June (2025) BluRay Rip (6.9*)
+http://127.0.0.1:6878/ace/getstream?id=952912bcd4c3da67b4138f53ff6ffa65d6fe3bbc
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/c6b7JgxtmN1ADVzFPeeY3J11kWt.jpg",Adios, June (2025) BluRay 720p (6.9*)
+http://127.0.0.1:6878/ace/getstream?id=1c51cc322c2011ad405c69784540de8427eec454
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/c6b7JgxtmN1ADVzFPeeY3J11kWt.jpg",Adios, June (2025) web dl Hd 1080p (6.9*)
+http://127.0.0.1:6878/ace/getstream?id=0173c96178c90f6d0e9fb8ce9fbdda5cb99eaea5
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/g6QtO93J2nVkJ8BduNE1WS9Fg2h.jpg",Maldita trinidad (2025) BluRay Rip (6.1*)
+http://127.0.0.1:6878/ace/getstream?id=e73d52d191db5cc5b061329f57c8bd64554d12bc
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/g6QtO93J2nVkJ8BduNE1WS9Fg2h.jpg",Maldita trinidad (2025) BluRay 720p (6.1*)
+http://127.0.0.1:6878/ace/getstream?id=47cc80bc3c94ed869cb8194f5375d11935206a02
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/g6QtO93J2nVkJ8BduNE1WS9Fg2h.jpg",Maldita trinidad (2025) BluRay 1080p (6.1*)
+http://127.0.0.1:6878/ace/getstream?id=d3a9b578f489dd872b391d210a336ec227bc9b05
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/g6QtO93J2nVkJ8BduNE1WS9Fg2h.jpg",Maldita trinidad (2025) web dl Hd 1080p (6.1*)
+http://127.0.0.1:6878/ace/getstream?id=8ee5c246937c12fd2e2869167b33228d69437d98
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/g6QtO93J2nVkJ8BduNE1WS9Fg2h.jpg",Maldita trinidad (2025) BluRay 4k 2160P (6.1*)
+http://127.0.0.1:6878/ace/getstream?id=96dede06105512e6c77eb82a3dc3d3bdbf3cf505
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2a191TKeSC8Uh919ouyGfIus7Qo.jpg",Relay (2025) BluRay Rip (7.1*)
+http://127.0.0.1:6878/ace/getstream?id=20a3909405bcb4bb02c1a74b435ff66fc28a4b64
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2a191TKeSC8Uh919ouyGfIus7Qo.jpg",Relay (2025) BluRay 720p (7.1*)
+http://127.0.0.1:6878/ace/getstream?id=779611b91762fba7858a9ceaf1eea375f5fa01ec
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2a191TKeSC8Uh919ouyGfIus7Qo.jpg",Relay (2025) BluRay 1080p (7.1*)
+http://127.0.0.1:6878/ace/getstream?id=a71ae664b7a4d9928f306f82644e8455080681b7
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2a191TKeSC8Uh919ouyGfIus7Qo.jpg",Relay (2025) web dl Hd 1080p (7.1*)
+http://127.0.0.1:6878/ace/getstream?id=367e489206d1e0d08f05d5ec3d51a3f1e8bcf6f0
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_face/2a191TKeSC8Uh919ouyGfIus7Qo.jpg",Relay (2025) BluRay 4k 2160P (7.1*)
+http://127.0.0.1:6878/ace/getstream?id=bff864087b33faee2b8a38d85d61c7329ad72943
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/1z3jgsuyyudTPNvZMftK7FeHSDK.jpg",Aquel Verano En Paris (2025) BluRay Rip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=81507c040acd9cc32316bd9fd2fe274d6e2b44fa
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/1z3jgsuyyudTPNvZMftK7FeHSDK.jpg",Aquel Verano En Paris (2025) BluRay 720pRip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=30e97719fcd33479c4d3d23d30153eedcc9ff4a7
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",Adios June (2025) BluRay Rip (6.9)
+http://127.0.0.1:6878/ace/getstream?id=952912bcd4c3da67b4138f53ff6ffa65d6fe3bbc
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",Adios June (2025) BluRay 720pRip (6.9)
+http://127.0.0.1:6878/ace/getstream?id=1c51cc322c2011ad405c69784540de8427eec454
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",Springsteen Deliver Me From Nowhere (2025) BluRay Rip (7.0)
+http://127.0.0.1:6878/ace/getstream?id=30d9910b7debfe852ba5be1692143bcd9c4ffbaf
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",Springsteen Deliver Me From Nowhere (2025) BluRay 720pRip (7.0)
+http://127.0.0.1:6878/ace/getstream?id=7b38598c392cba28d412240df5c34e19c4ac2492
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",Springsteen Deliver Me From Nowhere (2025) BluRay 4k 2160P (7.0)
+http://127.0.0.1:6878/ace/getstream?id=473cbbb5aede5ae9d1f9f16699fb2bc0f5cbc4f4
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/o8pg20G67BGmQvRkXwstNre062J.jpg",Eternity (2025) BluRay Rip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=1f238c45bba37aea196d79192808ac6048f6bd52
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/o8pg20G67BGmQvRkXwstNre062J.jpg",Eternity (2025) BluRay 720pRip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=1d7a29e629cf3e755d97adbbdbbe91d058d175c5
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/o8pg20G67BGmQvRkXwstNre062J.jpg",Eternity (2025) BluRay 1080Rip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=cbe69c90af797ccabec34072ac8b8305c26cde15
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg",Lo Mejor De Ti (2025) BluRay Rip (6.8)
+http://127.0.0.1:6878/ace/getstream?id=6ff30c014b5f2bade36d76d97f7778531158290a
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg",Lo Mejor De Ti (2025) BluRay 720pRip (6.8)
+http://127.0.0.1:6878/ace/getstream?id=eb92b5599f438e82debfa2b21a7c3b8dd307ac5c
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg",Lo Mejor De Ti (2025) BluRay 1080Rip (6.8)
+http://127.0.0.1:6878/ace/getstream?id=44a08b525fd74eb0618dcd79cdc58a2bfc286d0c
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/3H7rdXsFmoAA5coTaLOR7OTHyu4.jpg",Un Gran Equipo (2025) BluRay Rip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=6c6b94014be7609291cdccbb8224b5fd8250a2ef
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/3H7rdXsFmoAA5coTaLOR7OTHyu4.jpg",Un Gran Equipo (2025) BluRay 720pRip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=b0be103a21c18f52ffecc533e052143ce8373724
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/3H7rdXsFmoAA5coTaLOR7OTHyu4.jpg",Un Gran Equipo (2025) BluRay 1080Rip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=710b4db386d694e13c672bcb8204f387cacd5076
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg",El Mejor (2025) BluRay Rip (5.8)
+http://127.0.0.1:6878/ace/getstream?id=bc42666e06de5eb8a2c5a9161e94918aba345fd1
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg",El Mejor (2025) BluRay 720pRip (5.8)
+http://127.0.0.1:6878/ace/getstream?id=cae669d2e2d632edcb61c911704c2275b49c9e32
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg",El Mejor (2025) BluRay 1080Rip (5.8)
+http://127.0.0.1:6878/ace/getstream?id=06085b93d7b1c6bb73b50b6e5bc4bc640095ddb9
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",Black Phone 2 (2025) BluRay Rip (6.9)
+http://127.0.0.1:6878/ace/getstream?id=1c32a87a72b02be7aa9745093f0d243220c9db97
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",Black Phone 2 (2025) BluRay 720pRip (6.9)
+http://127.0.0.1:6878/ace/getstream?id=ab1f636b3404e27feb663ba3e0f5e25ed9bd7cc2
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/gFddBLQ8wj9M9O82iPzgX5KVNHz.jpg",Black Phone 2 (2025) BluRay 1080Rip (6.9)
+http://127.0.0.1:6878/ace/getstream?id=d37196a4b01ec6d513b2e021c8874dfbfec61b04
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/4h4L7iUWaeii4ILN8jsEPHnUoTA.jpg",Vera (2025) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=433b54559509a58cc627fd780b36d04cb002df17
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/4h4L7iUWaeii4ILN8jsEPHnUoTA.jpg",Vera (2025) BluRay 720pRip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=d39407d8693d1ce0fdfcabfa08aca8c2abd67b51
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/oJjCXVwPbNq2QeNdNvG2atZHj11.jpg",Amor a La Italiana (2025) BluRay Rip (5.2)
+http://127.0.0.1:6878/ace/getstream?id=eac703dadfda8df25c82e100ab209af00980f746
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/oJjCXVwPbNq2QeNdNvG2atZHj11.jpg",Amor a La Italiana (2025) BluRay 720pRip (5.2)
+http://127.0.0.1:6878/ace/getstream?id=304833f4edd9c7884e6d42167ad2e857b2ad171a
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/k7QB1I0VJgD8ibYv7slV2YtMCrO.jpg",Sin Cobertura (2025) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=692c820494716bc708d2462ee753117ccf305af0
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/k7QB1I0VJgD8ibYv7slV2YtMCrO.jpg",Sin Cobertura (2025) BluRay 720pRip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=014fd25ee93403337ded1d2d1c830780989bb23a
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/xv3jwqIbdUbIYzDxKEukGjT12Im.jpg",Los Indeseados (2025) BluRay Rip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=0df16ab0a711acfbd954b66e29312e16f8306077
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/xv3jwqIbdUbIYzDxKEukGjT12Im.jpg",Los Indeseados (2025) BluRay 720pRip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=cf67dec5559be89cb1f3f25d1a4f42f655d13dd9
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/8EpDSwnjMBc9dmTPEYBF4Bixmwf.jpg",Solitaria es la noche Los crimenes de la familia Bansal (2025) BluRay Rip (7.2)
+http://127.0.0.1:6878/ace/getstream?id=02ebccce07ea7fa6f9ead2d6a4073105b70bd6ff
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/8EpDSwnjMBc9dmTPEYBF4Bixmwf.jpg",Solitaria es la noche Los crimenes de la familia Bansal (2025) BluRay 720pRip (7.2)
+http://127.0.0.1:6878/ace/getstream?id=9928a9fe2a0d5b4fb1c45da17ae22ef6c64891a9
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/waU3o5qRPNA9bIC59DIsDppll11.jpg",Maldita Trinidad (2025) BluRay Rip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=e73d52d191db5cc5b061329f57c8bd64554d12bc
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/waU3o5qRPNA9bIC59DIsDppll11.jpg",Maldita Trinidad (2025) BluRay 720pRip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=47cc80bc3c94ed869cb8194f5375d11935206a02
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/waU3o5qRPNA9bIC59DIsDppll11.jpg",Maldita Trinidad (2025) BluRay 4k 2160P (6.2)
+http://127.0.0.1:6878/ace/getstream?id=96dede06105512e6c77eb82a3dc3d3bdbf3cf505
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",El gran diluvio (2025) BluRay Rip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=c864c919ad3ccb94b62bc4d2dd3c8049ebcdbc9b
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/1tUOZQDgZaGqZtrB21MieiXARL2.jpg",El gran diluvio (2025) BluRay 720pRip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=a79e4df93bc643fb812d3172a9406b6cae8c039d
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/nnkWWpJabd8BAqZV3Ku8rwstZG0.jpg",Blue Sun Palace (2025) BluRay Rip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=476677b10ff7a115e556c0441eb38b75a77f6358
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/nnkWWpJabd8BAqZV3Ku8rwstZG0.jpg",Blue Sun Palace (2025) BluRay 720pRip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=fe3972634fc139db3686623d2d3752bb63087925
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/iQOIOz8BZ2QLMyFJ7Leo9izSyti.jpg",10DANCE (2025) BluRay Rip (6.6)
+http://127.0.0.1:6878/ace/getstream?id=5747276f901a2c1e57d24830776dc9efb41ed470
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/iQOIOz8BZ2QLMyFJ7Leo9izSyti.jpg",10DANCE (2025) BluRay 720pRip (6.6)
+http://127.0.0.1:6878/ace/getstream?id=be5cffe93c951f8e3898b18c3860390fd2bd3171
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/l9aBZKIaB5ehZrO64vEPnSr96UK.jpg",La Sospecha De Sofia (2025) BluRay Rip (5.6)
+http://127.0.0.1:6878/ace/getstream?id=61323536ad1feda1a4817cb640eac10ee16ef2c6
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/l9aBZKIaB5ehZrO64vEPnSr96UK.jpg",La Sospecha De Sofia (2025) BluRay 720pRip (5.6)
+http://127.0.0.1:6878/ace/getstream?id=bc59a2e037afdceb84e947aff65df9b851222e9c
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/eCA5maHDlZtXNTtiLXenwnEw7tc.jpg",El diablo sobre hielo (2025) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=c59ad58de999bd789f74c91bce972de01d5579fa
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/eCA5maHDlZtXNTtiLXenwnEw7tc.jpg",El diablo sobre hielo (2025) BluRay 720pRip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=e044c57c7f3530ed4f9599dbed94dd2bcb296295
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/6cvJ0ejgN5FOALvRQvpN4CimNOf.jpg",El negociador (2025) BluRay Rip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=f8a3decd71c43be4250a5fc7beda75c9728acaee
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/6cvJ0ejgN5FOALvRQvpN4CimNOf.jpg",El negociador (2025) BluRay 720pRip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=fb0231ba76f3b2b25cc926917f5ca296d9886070
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/6cvJ0ejgN5FOALvRQvpN4CimNOf.jpg",El negociador (2025) BluRay 1080Rip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=b33622665de30fda1b6a14d286f6ed89f3481a08
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/6cvJ0ejgN5FOALvRQvpN4CimNOf.jpg",El negociador (2025) BluRay 4k 2160P (7.1)
+http://127.0.0.1:6878/ace/getstream?id=75926ca9c1f9b2232672fc877b5f7ff59137c337
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",Sisu Camino a la venganza (2025) BluRay Rip (7.7)
+http://127.0.0.1:6878/ace/getstream?id=454b86667626a284d204d68e6deddf75c548ea73
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",Sisu Camino a la venganza (2025) BluRay 720pRip (7.7)
+http://127.0.0.1:6878/ace/getstream?id=98702570a1355633546fe5b023d1a21875e4e333
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",Sisu Camino a la venganza (2025) BluRay 4k 2160P (7.7)
+http://127.0.0.1:6878/ace/getstream?id=aa35259965ccaf076b6531763e0a3a626e7db019
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/84w8M9fQq0c4fRlKRKuB2frUwpN.jpg",On The Go (2025) BluRay Rip (7.0)
+http://127.0.0.1:6878/ace/getstream?id=9a03abdaf9e4982da9651928edf8d7e8aeefb994
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/84w8M9fQq0c4fRlKRKuB2frUwpN.jpg",On The Go (2025) BluRay 720pRip (7.0)
+http://127.0.0.1:6878/ace/getstream?id=b69ad239b8739aef6942737a9b3f7e9729edcb41
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/8JbuKgQBc8KlXopF1eege54HNQ5.jpg",Preparation for the Next Life (2025) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=a451a60ea1b70bc5c6b53a522d8bb6f42d4424ea
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/8JbuKgQBc8KlXopF1eege54HNQ5.jpg",Preparation for the Next Life (2025) BluRay 720pRip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=fd6fc06bd9938d0f47d4410fe041fdc972ff29ec
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/8JbuKgQBc8KlXopF1eege54HNQ5.jpg",Preparation for the Next Life (2025) BluRay 1080Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=182ed108dd5926752ff60618775dc3e8af362bec
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/8JbuKgQBc8KlXopF1eege54HNQ5.jpg",Preparation for the Next Life (2025) BluRay 4k 2160P (5.0)
+http://127.0.0.1:6878/ace/getstream?id=9bb302ba1cb9e2187e6e107566d1261112278b03
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ejZSw4ZLxDznr7XvQdFjDpE7JDl.jpg",Voy a Desaparecer (2025) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=e04368aea5fb257d1cccb0341cbb890c4c72c389
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/ejZSw4ZLxDznr7XvQdFjDpE7JDl.jpg",Voy a Desaparecer (2025) BluRay 720pRip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=5cae687559325398bfce11d0f5787e416cfae831
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/qtnYMyp2lsei58xX7W0yKqi2Vgd.jpg",The Travellers (2025) BluRay Rip (6.0)
+http://127.0.0.1:6878/ace/getstream?id=f645cfb252fb49f9e4f9eef247db582e029711b3
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/qtnYMyp2lsei58xX7W0yKqi2Vgd.jpg",The Travellers (2025) BluRay 720pRip (6.0)
+http://127.0.0.1:6878/ace/getstream?id=e6279c637d2337a8f6071215fe0ab8ab0195e978
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/tGidrBsBBxUkmdQpIeFI09oLL8F.jpg",Una Navidad diferente (2025) BluRay Rip (6.9)
+http://127.0.0.1:6878/ace/getstream?id=0e03936fc77ab2428a156ef28a0de9fc62e051df
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/tGidrBsBBxUkmdQpIeFI09oLL8F.jpg",Una Navidad diferente (2025) BluRay 720pRip (6.9)
+http://127.0.0.1:6878/ace/getstream?id=c07e751fc86e7ee0334c446e47bd5eb3fcdab8e1
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/tGidrBsBBxUkmdQpIeFI09oLL8F.jpg",Una Navidad diferente (2025) BluRay 1080Rip (6.9)
+http://127.0.0.1:6878/ace/getstream?id=65a3269ea8c49b19cff3d0624fea4aecca9593da
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/w11YnpvISK0Rn2cwle1RyOL51Bv.jpg",Llobas (2025) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=ee9f0542bba77edba6da9850bff4755d70f3e6ae
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/w11YnpvISK0Rn2cwle1RyOL51Bv.jpg",Llobas (2025) BluRay 720pRip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=c19ae208d9675cc078c59b414e8312bf86aeead8
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/hCQjAPmraF3ppv3KfNXA4lkBnbe.jpg",The Mastermind (2025) BluRay Rip (5.6)
+http://127.0.0.1:6878/ace/getstream?id=a83a276beeee514a9f57bfde44ed0d551ba9a31a
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/hCQjAPmraF3ppv3KfNXA4lkBnbe.jpg",The Mastermind (2025) BluRay 4k 2160P (5.6)
+http://127.0.0.1:6878/ace/getstream?id=5d9f48bba1f756b3b2484f05c446eeb456b90806
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/4CQeMkQi153rfvCEgGPtcfr7a56.jpg",Niki (2025) BluRay Rip (6.1)
+http://127.0.0.1:6878/ace/getstream?id=92e7946ce39c83f680c9acf39cdca7684dfea5b6
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/4CQeMkQi153rfvCEgGPtcfr7a56.jpg",Niki (2025) BluRay 720pRip (6.1)
+http://127.0.0.1:6878/ace/getstream?id=e7b182c4a48d9507f25e39143090afc1cacdadef
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/4CQeMkQi153rfvCEgGPtcfr7a56.jpg",Niki (2025) BluRay 1080Rip (6.1)
+http://127.0.0.1:6878/ace/getstream?id=7c7e4f95726ed1c5277075457c1d713a3a892fe3
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/4CQeMkQi153rfvCEgGPtcfr7a56.jpg",Niki (2025) Web dl Hd 1080p  (6.1)
+http://127.0.0.1:6878/ace/getstream?id=d1af938472c5685ff1feb692a836c1a4584ed109
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/qs2AeWbLklk9I5UbI8bllZVfF2V.jpg",Indomables (2025) BluRay Rip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=a83a276beeee514a9f57bfde44ed0d551ba9a31a
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/qs2AeWbLklk9I5UbI8bllZVfF2V.jpg",Indomables (2025) BluRay 720pRip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=6279f3ce41f3fe0236bc7fbe5f6ed3d3512b2471
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/qs2AeWbLklk9I5UbI8bllZVfF2V.jpg",Indomables (2025) BluRay 1080Rip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=8eb9a97a60b0d72583d2a19046becd3a79ee82ee
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/qs2AeWbLklk9I5UbI8bllZVfF2V.jpg",Indomables (2025) BluRay 4k 2160P (6.3)
+http://127.0.0.1:6878/ace/getstream?id=5d9f48bba1f756b3b2484f05c446eeb456b90806
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/qs2AeWbLklk9I5UbI8bllZVfF2V.jpg",Indomables (2025) Web dl Hd 1080p  (6.3)
+http://127.0.0.1:6878/ace/getstream?id=3cecd5d8ce3e0b5d7a7ac74c499d15f7b0e76499
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg",El regreso de Ulises (2025) BluRay Rip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=a3fab9597773e6dcf33eda0313b312567e48b0af
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg",El regreso de Ulises (2025) BluRay 720pRip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=bc4b5f2557b36ec697369774eada26266a94320c
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg",El regreso de Ulises (2025) BluRay 1080Rip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=95c33bcc8d519a66d6d34a0581004dd8bf9582be
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg",El regreso de Ulises (2025) BluRay 4k 2160P (6.5)
+http://127.0.0.1:6878/ace/getstream?id=354aae75dc04dfa3368e8b0539306b08479b45f4
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg",El regreso de Ulises (2025) Web dl Hd 1080p  (6.5)
+http://127.0.0.1:6878/ace/getstream?id=4156a8e883c777c940d4bbf91f602bdf98f8089d
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/1NTEqGvc0EaNraKYSDtevQprP9y.jpg",El Ultimo Padrino (2025) BluRay Rip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=e971b1abd508b06b511eafb250d9cef49f8b2713
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/1NTEqGvc0EaNraKYSDtevQprP9y.jpg",El Ultimo Padrino (2025) BluRay 1080Rip (6.2)
+http://127.0.0.1:6878/ace/getstream?id=5595c931af63cba33a8849cf253a23f009a9366a
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg",London Calling (2025) BluRay Rip (7.0)
+http://127.0.0.1:6878/ace/getstream?id=5a3a894441875d01d3ac554a842090ce3181c4b1
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg",London Calling (2025) BluRay 720pRip (7.0)
+http://127.0.0.1:6878/ace/getstream?id=70001b649fe13ec8a32227791accd90e72ea93ff
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg",London Calling (2025) Web dl Hd 1080p  (7.0)
+http://127.0.0.1:6878/ace/getstream?id=40f1cbd53554511f50a942398a1024b576272720
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/rLYJ7YaVqEkF7jYbQDprmSSkWWW.jpg",John y El Hoyo  (2025) BluRay Rip (5.3)
+http://127.0.0.1:6878/ace/getstream?id=f080c914a408ea0c73c68c7ce406ef614f69ca0a
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/rLYJ7YaVqEkF7jYbQDprmSSkWWW.jpg",John y El Hoyo  (2025) BluRay 720pRip (5.3)
+http://127.0.0.1:6878/ace/getstream?id=254a442d6f311310b087bcffa94c15c1e4141c70
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/rLYJ7YaVqEkF7jYbQDprmSSkWWW.jpg",John y El Hoyo  (2025) BluRay 1080Rip (5.3)
+http://127.0.0.1:6878/ace/getstream?id=a8c87ac9d1ecd5017f008d4b377c5bf753d989b2
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/qCOGGi8JBVEZMc3DVby8rUivyXz.jpg",Punales por la espalda De entre los muertos (2025) BluRay 720pRip (7.6)
+http://127.0.0.1:6878/ace/getstream?id=350561c38bb489eb21eedaa62fe6d3bf700ae742
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/hHowAaChDjwueySmwVbsjHmpWa.jpg",Ladrones con clase 2 (2025) BluRay Rip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=f14abf0ef7fba099d3b163727b9f119018212e88
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/hHowAaChDjwueySmwVbsjHmpWa.jpg",Ladrones con clase 2 (2025) BluRay 720pRip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=d2d479ec2167cb19fdf12609f5556b2a486a01b4
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/hHowAaChDjwueySmwVbsjHmpWa.jpg",Ladrones con clase 2 (2025) BluRay 1080Rip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=c6bfa25a7d327890051ff2f18efae7212a67dfb4
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",The Running Man (2025) BluRay Rip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=9829a2ceac33eb3c1c5b7c6343490ca61e01a646
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",The Running Man (2025) BluRay 720pRip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=3d142d614b82613aca99992dc66ad34a18352ca0
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",The Running Man (2025) BluRay 1080Rip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=7660341f7156082b983d4ab05345b6806bdcd39e
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/9LCpHFXZgkqp2AWiYq0mGbfZauk.jpg",Shadow Force (2025) BluRay 720pRip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=0ea31d7475346133ce723351722975f2e48ee31f
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/9LCpHFXZgkqp2AWiYq0mGbfZauk.jpg",Shadow Force (2025) BluRay 1080Rip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=1949c4a71e63a92be127c484a59694e3dbfb655b
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/9LCpHFXZgkqp2AWiYq0mGbfZauk.jpg",Shadow Force (2025) BluRay 4k 2160P (6.4)
+http://127.0.0.1:6878/ace/getstream?id=3d460876000154af0f6bb1220ff80673112e0216
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",Dimelo bajito (2025) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=75d03f04a67bfccef97cb73de4233a39a0368a5e
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",Dimelo bajito (2025) BluRay 720pRip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=e07179d5d9ed969a7b66b189c8d891c753a93147
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",Dimelo bajito (2025) BluRay 1080Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=922430c3f1e98a2d8d107937dc4f36415ddad2e8
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/lBWfBI9LFLtiDKpxrDFICC2bv0b.jpg",En Bicicleta (2025) BluRay Rip (7.3)
+http://127.0.0.1:6878/ace/getstream?id=2e8165cdc31b6f2b447ad1bb71f2729b6a175c25
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/lBWfBI9LFLtiDKpxrDFICC2bv0b.jpg",En Bicicleta (2025) BluRay 720pRip (7.3)
+http://127.0.0.1:6878/ace/getstream?id=3d26cc2e3690a495deb79768f2662f29967a516f
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/lBWfBI9LFLtiDKpxrDFICC2bv0b.jpg",En Bicicleta (2025) BluRay 1080Rip (7.3)
+http://127.0.0.1:6878/ace/getstream?id=b98fb8518b725c01d10c7c993c1cf27be2cdbac3
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg",The Best You Can (2025) BluRay Rip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=165acf4f2c24be3fb36fdfac8903fbe7df690059
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg",The Best You Can (2025) BluRay 720pRip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=43a22045cee5373e26347a1098ecdd2a72d3bcdf
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg",The Best You Can (2025) BluRay 1080Rip (6.4)
+http://127.0.0.1:6878/ace/getstream?id=1a197414655d172a92d31cc442e1b1e56f3e87dc
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg",The Best You Can (2025) BluRay 4k 2160P (6.4)
+http://127.0.0.1:6878/ace/getstream?id=13cf2aa129f66e7a8a67a43008a5b8aab4af3f92
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/nfGlYjINEcGtxV46viW4olwHHSz.jpg",Merv (2025) BluRay Rip (5.8)
+http://127.0.0.1:6878/ace/getstream?id=3baa00de4ee0faa3feee3547d897e3619d17f666
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/nfGlYjINEcGtxV46viW4olwHHSz.jpg",Merv (2025) BluRay 720pRip (5.8)
+http://127.0.0.1:6878/ace/getstream?id=960f54349aa22e57efb2289a4b25a69babbecb93
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/nfGlYjINEcGtxV46viW4olwHHSz.jpg",Merv (2025) BluRay 4k 2160P (5.8)
+http://127.0.0.1:6878/ace/getstream?id=66f6476cd97fa9f36dd0f5bdfa4631acac9b3098
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",Good Boy  (2025) BluRay Rip (6.8)
+http://127.0.0.1:6878/ace/getstream?id=5febf699e08e852ae896f4a69f573c37e5374528
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",Good Boy  (2025) BluRay 720pRip (6.8)
+http://127.0.0.1:6878/ace/getstream?id=993b3c679f2e2c5f01121051209ddcff69110891
+#EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",Good Boy  (2025) BluRay 1080Rip (6.8)
+http://127.0.0.1:6878/ace/getstream?id=0763e1bbb4eefe51558862f0fa3fbe8facdf72cc
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/gcFxbtsgyMMripGtUIxPmmFxQXT.jpg",Feliz NaviDAR Con Elmo y Mark Rober (2025) BluRay 720pRip (5.0)
 http://127.0.0.1:6878/ace/getstream?id=19811aaee90afe6f71dd8f1a83dca485ebadefd6
 #EXTINF:-1 group-title="AÑO 2025" tvg-logo="https://image.tmdb.org/t/p/w1280/dDlfjR7gllmr8HTeN6rfrYhTdwX.jpg",Tierras Perdidas  (2025) BluRay 1080Rip (6.4)
