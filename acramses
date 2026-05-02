@@ -1,6 +1,108 @@
 #EXTM3U
 #EXTM3U
 # Carpeta: AÑO 2026
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/wkZgGYcCQIzX8zvMAHpzg4hFhLF.jpg",El matadero Acecinados (2026) BluRay Rip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=34d135a09121b65f0d4c1f0725795909d2a9c6b5
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/wkZgGYcCQIzX8zvMAHpzg4hFhLF.jpg",El matadero Acecinados (2026) BluRay 720pRip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=d784e8b4b2f5de897f0037ceb00f741246fec602
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/jKMs61W68I40wZt4w4FmmXYjbGM.jpg",Frontera (2026) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=63911cd560ac8136ba9592ec90ace5e2f21d6698
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/jKMs61W68I40wZt4w4FmmXYjbGM.jpg",Frontera (2026) BluRay 720pRip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=d541f584e2cafc6783bd370889f9e46de50484c0
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/6IiNUUV6H2W1wUc8e1w4GfuQCOE.jpg",A Breed Apart (2026) BluRay Rip (5.3)
+http://127.0.0.1:6878/ace/getstream?id=6da842cc95e77f2716f767b7b808dc8f1ee44a01
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/6IiNUUV6H2W1wUc8e1w4GfuQCOE.jpg",A Breed Apart (2026) BluRay 720pRip (5.3)
+http://127.0.0.1:6878/ace/getstream?id=22072bcc3b60b20127a16eab2916963977687238
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/6IiNUUV6H2W1wUc8e1w4GfuQCOE.jpg",A Breed Apart (2026) BluRay 1080Rip (5.3)
+http://127.0.0.1:6878/ace/getstream?id=add803cd931274bb7d33b265d9eccf7cde733c4a
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/6IiNUUV6H2W1wUc8e1w4GfuQCOE.jpg",A Breed Apart (2026) BluRay 4k 2160P (5.3)
+http://127.0.0.1:6878/ace/getstream?id=d7a2a118403dc7f98e83c40f5c298fdf5c4b4526
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",Oscar Shaw (2026) BluRay Rip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=e4909e726f940ff9b18e918bf57b80a3dc8bfe62
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",Oscar Shaw (2026) BluRay 720pRip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=82ea21575808968e36768a7a5abe2a7c3475c206
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",Oscar Shaw (2026) BluRay 1080Rip (6.3)
+http://127.0.0.1:6878/ace/getstream?id=23270dd3951a867fd959cf7bfef848f9f2f3c50b
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",Te van a matar (2026) BluRay Rip (6.6)
+http://127.0.0.1:6878/ace/getstream?id=7a49105491dab25d8367d266def82ac3684f405c
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",Te van a matar (2026) BluRay 720pRip (6.6)
+http://127.0.0.1:6878/ace/getstream?id=179f8cc877e6f100eff6e23e1b1d6a7e08c11c1b
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",Te van a matar (2026) BluRay 1080Rip (6.6)
+http://127.0.0.1:6878/ace/getstream?id=0b71d22434b971688e8c227dcee0261b9e9c4342
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",Te van a matar (2026) BluRay 4k 2160P (6.6)
+http://127.0.0.1:6878/ace/getstream?id=65ecd4ff15978dfd7effe45293406ddd01c67d48
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/nrwtoBNGgbFz3iiCx43TLHoBBPq.jpg",Je m appelle Agneta  (2026) BluRay Rip (8.0)
+http://127.0.0.1:6878/ace/getstream?id=816f152bfd0cabd09d8b18694103350fec7d4b8c
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/nrwtoBNGgbFz3iiCx43TLHoBBPq.jpg",Je m appelle Agneta  (2026) BluRay 4k 2160P (8.0)
+http://127.0.0.1:6878/ace/getstream?id=7292aa28f395e584203c16850fd4f091e4d20f72
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/qO0ZWq3w6uvb06YleIAIGtoGnku.jpg",La Red Fantasma  (2026) BluRay Rip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=d7a47f4ccebc79ab07e779c7122c9dfeeb9c81b8
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/qO0ZWq3w6uvb06YleIAIGtoGnku.jpg",La Red Fantasma  (2026) BluRay 720pRip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=c9387835e3fe548d0d8460056a2fa90a1172321d
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/qO0ZWq3w6uvb06YleIAIGtoGnku.jpg",La Red Fantasma  (2026) BluRay 1080Rip (6.7)
+http://127.0.0.1:6878/ace/getstream?id=bf07655d8b3a857c9f5e6d461d2f21697f0ac1a8
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",180 (2026) BluRay Rip (5.1)
+http://127.0.0.1:6878/ace/getstream?id=1680dd24066def01d8295039cddcdcc2132bcb75
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/9ISjrhA38HpSSGtfiCk8lpziC3K.jpg",180 (2026) BluRay 720pRip (5.1)
+http://127.0.0.1:6878/ace/getstream?id=eb065a65b983dfed3041302b62651dbc3f6df704
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/4JgvnUEggEMx6lEUu0eOq6XfMP7.jpg",La batalla de Oslo (Blucher)  (2026) BluRay Rip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=7bc2adef7e226d49e60b6caf1249e38020927482
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/4JgvnUEggEMx6lEUu0eOq6XfMP7.jpg",La batalla de Oslo (Blucher)  (2026) BluRay 720pRip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=f7e7e9eddf8a7a8ce43292edba2a4bfc448a9545
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/4JgvnUEggEMx6lEUu0eOq6XfMP7.jpg",La batalla de Oslo (Blucher)  (2026) BluRay 1080Rip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=22598c62c534cd1c41d7b0c9a8179eadbf693b49
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/4JgvnUEggEMx6lEUu0eOq6XfMP7.jpg",La batalla de Oslo (Blucher)  (2026) Web dl Hd 1080p  (6.5)
+http://127.0.0.1:6878/ace/getstream?id=48c953c0bef0b7d66f7a14a14a24467e12733a7e
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/2IkCa88DMNz0rq2rcYVl9TUkfz7.jpg",Balearic  (2026) BluRay 1080Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=5db53e5ade09df85646853e7d60c438bb7e8b314
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/qwklLRMLoCq6StEcLkTjmX1fdoM.jpg",Cuando todo es posible (2026) BluRay Rip (7.0)
+http://127.0.0.1:6878/ace/getstream?id=24a75fade580996a2730cecb673e6bd48416abb2
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/lABR9HrMcvHDSouESUlCpYzGBVV.jpg",Una cena y lo que surja (2026) BluRay Rip (5.8)
+http://127.0.0.1:6878/ace/getstream?id=0fc7fab840a085a8c4bd00af08bc8b8fb92e815c
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/lABR9HrMcvHDSouESUlCpYzGBVV.jpg",Una cena y lo que surja (2026) BluRay 720pRip (5.8)
+http://127.0.0.1:6878/ace/getstream?id=0ac89032935f453ef77c95212925f92d1fde640f
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/lABR9HrMcvHDSouESUlCpYzGBVV.jpg",Una cena y lo que surja (2026) BluRay 1080Rip (5.8)
+http://127.0.0.1:6878/ace/getstream?id=d3d138863911719e6c0e8fe6250ef68d8a0db23f
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/cCRBkb1U9eKz1DYa4UMGZBSkcjC.jpg",Franz Kafka (2026) BluRay Rip (6.1)
+http://127.0.0.1:6878/ace/getstream?id=2a32301636df844c6c031a659a30800aac9415ec
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/cCRBkb1U9eKz1DYa4UMGZBSkcjC.jpg",Franz Kafka (2026) BluRay 720pRip (6.1)
+http://127.0.0.1:6878/ace/getstream?id=9e0f989d1da91baaa771b0848bfef0c7145426c5
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/gxSkBOfTEOX2f6KhqMFSXf24nMo.jpg",La vida fuera (Fuori) (2026) BluRay Rip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=a39ade01d6f6228f1dab2006bfd0b3c4683a2e55
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/gxSkBOfTEOX2f6KhqMFSXf24nMo.jpg",La vida fuera (Fuori) (2026) BluRay 720pRip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=b4250bf4fddcb10aaa8e6f9a509a46b80d92d194
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/gxSkBOfTEOX2f6KhqMFSXf24nMo.jpg",La vida fuera (Fuori) (2026) BluRay 1080Rip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=fae1e4e652ea4e910de97f50aec215fc030ecdaa
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/5vAUtf64Fgv4h1Kpxrv6J4b8Dxw.jpg",Todos Los Lados De La Cama (2026) BluRay Rip (5.5)
+http://127.0.0.1:6878/ace/getstream?id=a55b011213867466713a9555698c6456f8a96181
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/5vAUtf64Fgv4h1Kpxrv6J4b8Dxw.jpg",Todos Los Lados De La Cama (2026) BluRay 720pRip (5.5)
+http://127.0.0.1:6878/ace/getstream?id=f8617b240dce8ee1e5524d4d285c46523529166e
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/dOLRsvnjOB6rCx6olyRsMT92PxI.jpg",The Red Book Ritual Gates of Hell  (2026) BluRay Rip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=43e0e73195faf15dde04c922b3c4528d21034d74
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/dOLRsvnjOB6rCx6olyRsMT92PxI.jpg",The Red Book Ritual Gates of Hell  (2026) BluRay 720pRip (5.0)
+http://127.0.0.1:6878/ace/getstream?id=460d87a5e53927cc7a67cf9a32c3964fc1eaf31d
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/nIavKNzHzk0Kpra8JdZ7NmtSuLc.jpg",Depredador dominante  (2026) BluRay Rip (6.9)
+http://127.0.0.1:6878/ace/getstream?id=e40c1f96331297eb83a19004af233687669d610f
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/nIavKNzHzk0Kpra8JdZ7NmtSuLc.jpg",Depredador dominante  (2026) BluRay 1080Rip (6.9)
+http://127.0.0.1:6878/ace/getstream?id=cf859a05c1e37654a26b989340454fdbf2f7aac8
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/nIavKNzHzk0Kpra8JdZ7NmtSuLc.jpg",Depredador dominante  (2026) BluRay 4k 2160P (6.9)
+http://127.0.0.1:6878/ace/getstream?id=56ec22eb570c399a76b86923fa5f991964e1ef90
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/kkvJu6Dz7umgBHgpCiTyh3rPFhC.jpg",Lilly (2026) BluRay Rip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=906f0e0012e7ce3e0a2c14632df59e297540582f
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/kkvJu6Dz7umgBHgpCiTyh3rPFhC.jpg",Lilly (2026) BluRay 720pRip (7.1)
+http://127.0.0.1:6878/ace/getstream?id=655fd230b447a3ce1bde770300e4df3f4eee7573
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",Greenland 2  (2026) BluRay Rip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=04b03befbf3f506212c90b475187a3dec0b7920e
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",Greenland 2  (2026) BluRay 720pRip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=8e49f4556fe14e84cefe9d5ae85c71c186b1edc6
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",Greenland 2  (2026) BluRay 1080Rip (6.5)
+http://127.0.0.1:6878/ace/getstream?id=1f3a8ccb71247133d65b94bb917d896fd6e69260
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/z2tqCJLsw6uEJ8nJV8BsQXGa3dr.jpg",Greenland 2  (2026) BluRay 4k 2160P (6.5)
+http://127.0.0.1:6878/ace/getstream?id=3d1014b16867369ab130b91be08e8dac1222cc95
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/p8yPjT9NAH87oD9TedclRaAW7RY.jpg",Nosotros lejos del ruido (2026) BluRay Rip (5.6)
+http://127.0.0.1:6878/ace/getstream?id=060825db3de6762bca56a78e35c6ba280b43066e
+#EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/p8yPjT9NAH87oD9TedclRaAW7RY.jpg",Nosotros lejos del ruido (2026) BluRay 720pRip (5.6)
+http://127.0.0.1:6878/ace/getstream?id=7e2c1bde5ba0bb62f90e96369be9c30f345bd0fd
 #EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/j2gYxk9EQXh2hz1jNZQOe9WOUXU.jpg",Idolos (2026) BluRay Rip (6.6)
 http://127.0.0.1:6878/ace/getstream?id=e79ac23c9167c229a5f2bdaa88a211909c13a591
 #EXTINF:-1 group-title="AÑO 2026" tvg-logo="https://image.tmdb.org/t/p/w1280/j2gYxk9EQXh2hz1jNZQOe9WOUXU.jpg",Idolos (2026) BluRay 720pRip (6.6)
